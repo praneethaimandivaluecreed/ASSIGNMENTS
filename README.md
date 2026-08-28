@@ -6,3 +6,10 @@ https://docs.google.com/document/d/1gzf2GJs3X914fTH-EyIdVtiXEZcvBIsW8iAcJJvnucI/
 
 planner : 
 https://docs.google.com/spreadsheets/d/1gE-4Re5f36U1qmY707HPJA5y5tkfRg06/edit?usp=sharing&ouid=100370658781431352414&rtpof=true&sd=true
+
+#Hemanth 
+notes:
+https://docs.google.com/document/d/1FFPgWQdy1O_FWIN1caP55LXsde2bhUKeM_M1kI28d1I/edit?usp=sharing
+
+planner:
+https://docs.google.com/spreadsheets/d/1R7_VVPOFgwRifZIHXbWXL116f-ac9daQ/edit?usp=sharing&ouid=111614718718356491642&rtpof=true&sd=true
