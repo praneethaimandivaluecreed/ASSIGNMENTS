@@ -1,5 +1,5 @@
-import pandas as pd
-import requests
+import pandas as pd # type: ignore
+import requests # type: ignore
 
 print("Virtual environment is working!")
 
