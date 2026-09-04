@@ -20,3 +20,6 @@ https://docs.google.com/document/d/1FFPgWQdy1O_FWIN1caP55LXsde2bhUKeM_M1kI28d1I/
 
 planner:
 https://docs.google.com/spreadsheets/d/1R7_VVPOFgwRifZIHXbWXL116f-ac9daQ/edit?usp=sharing&ouid=111614718718356491642&rtpof=true&sd=true
+
+# resource google document
+**https://docs.google.com/document/d/1NUbBzJ04TQFeMR5Ts7_OrZewJWQrlWr81Vw7UzIJIew/edit?usp=sharing**
