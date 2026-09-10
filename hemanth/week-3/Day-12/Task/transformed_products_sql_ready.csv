@@ -1,0 +1,148 @@
+id,sku,product_name,category,price,currency,stock,rating,in_stock,supplier
+1,sku-1001,wireless mouse,office,133.77,usd,35,4.3,1,officehub
+2,sku-1002,ultra-light mouse,electronics,121.04,usd,129,3.9,1,officehub
+3,sku-1003,heavy-duty water bottle,home & kitchen,232.87,usd,71,4.5,1,abc supplies
+4,sku-1004,compact backpack,home & kitchen,119.43,usd,195,3.2,1,abc supplies
+5,sku-1005,compact notebook,office,406.46,usd,186,3.5,1,abc supplies
+6,sku-1006,wireless mouse,office,0.0,usd,130,2.5,1,techworld ltd
+7,sku-1007,wireless water bottle,office,234.9,usd,213,3.3,1,global goods
+8,sku-1008,wireless notebook,home & kitchen,274.06,usd,62,2.7,1,prime distributors
+9,sku-1009,portable charger,office,423.78,usd,198,2.5,1,abc supplies
+10,sku-1010,portable desk lamp,outdoor,440.04,$,130,2.9,1,prime distributors
+11,sku-1011,ergonomic keyboard,home & kitchen,376.32,$,137,3.0,1,officehub
+12,sku-1012,portable keyboard,outdoor,254.36,usd,193,2.4,1,abc supplies
+13,sku-1013,solar notebook,electronics,201.61,usd,152,5.0,1,officehub
+14,sku-1014,wireless charger,outdoor,379.18,usd,196,4.0,1,abc supplies
+15,sku-1015,ultra-light desk lamp,office,486.37,usd,195,4.0,1,abc supplies
+16,sku-1016,portable keyboard,office,384.82,usd,138,4.9,1,officehub
+17,sku-1017,modular mouse,electronics,465.61,usd,224,5.0,1,global goods
+18,sku-1018,foldable chair,electronics,369.98,usd,208,2.5,1,officehub
+19,sku-1019,modular monitor stand,home & kitchen,143.55,usd,130,3.9,1,unknown
+20,sku-1020,ergonomic water bottle,office,227.48,usd,132,4.5,1,abc supplies
+21,sku-1021,ultra-light notebook,outdoor,126.61,usd,120,2.3,1,abc supplies
+22,sku-1022,ultra-light mouse,office,251.96,usd,120,3.1,1,abc supplies
+23,sku-1023,foldable notebook,unknown,132.85,usd,121,4.5,1,techworld ltd
+24,sku-1024,solar desk lamp,accessories,214.38,usd,221,4.3,1,abc supplies
+25,sku-1025,compact webcam,electronics,135.6,usd,48,3.7,0,techworld ltd
+26,sku-1026,wireless mouse,electronics,229.92,usd,220,4.6,1,abc supplies
+27,sku1027,ultra-light chair,home & kitchen,95.66,usd,124,3.6,1,prime distributors
+28,sku-1028,ultra-light water bottle,office,251.96,usd,200,3.5,1,unknown
+29,sku-1029,portable backpack,home & kitchen,251.96,usd,120,4.3,0,abc supplies
+30,sku-1030,modular monitor stand,outdoor,91.35,usd,130,3.6,1,techworld ltd
+31,sku-1006,portable water bottle,electronics,471.67,usd,145,3.8,1,officehub
+32,sku-1032,solar charger,outdoor,289.14,inr,80,4.8,1,techworld ltd
+33,sku-1033,wireless mouse,office,236.75,usd,237,4.3,1,abc supplies
+34,sku-1034,foldable chair,electronics,275.75,usd,129,3.0,1,global goods
+35,sku-1035,ergonomic keyboard,accessories,419.37,usd,180,3.1,1,officehub
+36,sku-1036,heavy-duty backpack,electronics,470.38,usd,34,3.0,1,abc supplies
+37,sku-1037,foldable headphones,office,113.74,usd,162,4.6,1,officehub
+38,sku-1038,solar mouse,office,36.38,usd,85,4.4,1,global goods
+39,sku-1039,heavy-duty desk lamp,accessories,287.04,usd,28,2.5,1,techworld ltd
+40,sku-1040,smart water bottle,home & kitchen,35.29,usd,93,4.7,1,abc supplies
+41,sku-1041,wireless desk lamp,outdoor,443.81,usd,104,4.9,1,techworld ltd
+42,sku-1042,smart desk lamp,accessories,27.02,usd,188,4.8,1,prime distributors
+44,sku-1044,modular desk lamp,office,412.96,usd,223,2.9,1,abc supplies
+45,sku-1045,wireless webcam,elec,185.31,usd,130,3.4,0,officehub
+46,sku-1046,ergonomic keyboard,outdoor,481.83,usd,67,2.4,1,officehub
+47,sku-1047,compact water bottle,outdoor,492.35,usd,29,3.3,1,officehub
+48,sku-1048,solar mouse,outdoor,463.9,usd,137,4.2,1,techworld ltd
+49,sku-1049,compact notebook,office,336.74,usd,31,4.2,1,global goods
+50,sku-1050,solar desk lamp,office,283.89,usd,49,3.4,1,prime distributors
+51,sku-1051,ergonomic water bottle,outdoor,419.36,usd,77,3.1,1,prime distributors
+52,sku-1052,modular charger,home & kitchen,262.92,usd,203,4.7,1,techworld ltd
+53,sku-1053,foldable desk lamp,electronics,411.94,usd,192,2.9,1,global goods
+54,sku-1054,smart mouse,electronics,133.75,usd,121,4.0,1,abc supplies
+55,sku-1055,portable desk lamp,accessories,254.77,usd,62,2.7,1,abc supplies
+56,sku-1056,portable keyboard,outdoor,240.31,usd,142,3.0,1,abc supplies
+57,sku-1057,heavy-duty monitor stand,outdoor,168.89,usd,193,4.7,1,officehub
+58,sku-1058,smart desk lamp,accessories,233.28,usd,192,3.0,1,global goods
+59,sku-1059,modular chair,office,128.73,usd,85,3.2,1,officehub
+60,sku-1060,portable water bottle,home & kitchen,357.61,usd,16,3.4,1,global goods
+61,sku-1061,heavy-duty water bottle,outdoor,473.84,usd,5,4.6,1,officehub
+62,sku-1062,ergonomic webcam,accessories,428.92,usd,244,4.6,1,officehub
+63,sku-1063,portable charger,home & kitchen,147.37,usd,124,2.4,0,global goods
+64,sku-1064,modular desk lamp,home & kitchen,490.65,usd,136,2.4,1,prime distributors
+65,sku-1065,solar keyboard,accessories,103.14,inr,66,3.3,1,techworld ltd
+66,sku-1066,solar backpack,accessories,251.96,usd,20,3.6,1,abc supplies
+67,sku-1067,wireless webcam,electronics,380.8,usd,243,3.0,1,abc supplies
+68,sku-1068,wireless notebook,home & kitchen,0.0,usd,130,4.4,1,techworld ltd
+69,sku-1069,smart backpack,electronics,295.66,usd,237,3.1,1,prime distributors
+70,sku-1070,foldable desk lamp,home & kitchen,64.42,usd,197,3.1,1,officehub
+71,sku-1071,ultra-light desk lamp,outdoor,222.76,usd,94,2.5,1,global goods
+72,sku-1072,modular chair,accessories,480.98,usd,162,4.7,1,prime distributors
+73,sku-1073,heavy-duty charger,office,313.72,usd,235,3.8,1,prime distributors
+74,sku-1074,ergonomic desk lamp,home & kitchen,417.9,₹,22,3.1,1,prime distributors
+75,sku-1075,wireless mouse,accessories,178.15,usd,126,1.0,1,techworld ltd
+76,unknown,ergonomic desk lamp,office,441.96,usd,179,4.7,1,officehub
+77,sku-1077,wireless headphones,accessories,251.96,usd,194,2.9,1,prime distributors
+78,sku-1078,ultra-light chair,home & kitchen,122.47,usd,177,3.0,1,officehub
+79,unknown,compact water bottle,outdoor,175.43,usd,179,3.5,1,global goods
+80,sku-1080,portable desk lamp,electronics,375.3,$,243,1.0,1,techworld ltd
+81,sku-1081,modular backpack,outdoor,488.65,inr,134,3.9,1,unknown
+82,sku-1082,compact keyboard,electronics,21.86,unknown,136,1.0,0,abc supplies
+83,sku-1083,smart charger,accessories,64.76,usd,50,3.8,1,prime distributors
+84,unknown,ultra-light backpack,accessories,251.96,usd,16,3.4,1,abc supplies
+85,sku-1085,smart webcam,outdoor,475.33,₹,21,5.0,1,abc supplies
+86,sku-1086,foldable headphones,outdoor,199.48,usd,232,3.5,1,officehub
+87,sku-1087,ultra-light notebook,electronics,474.58,usd,53,4.0,1,global goods
+88,sku-1088,heavy-duty chair,home & kitchen,16.3,usd,115,4.2,1,prime distributors
+89,sku-1089,ergonomic desk lamp,accessories,49.52,usd,130,4.8,1,officehub
+90,sku-1090,heavy-duty headphones,home & kitchen,455.58,usd,211,2.7,1,abc supplies
+91,sku-1091,foldable desk lamp,outdoor,461.78,usd,112,2.6,1,global goods
+92,sku-1021,modular charger,electronics,305.05,us dollar,227,3.5,1,global goods
+93,sku-1093,wireless   mouse,electronics,499.79,usd,172,4.5,1,officehub
+94,sku-1094,wireless mouse,outdoor,330.98,usd,234,3.1,1,unknown
+95,sku-1095,modular desk lamp,accessories,176.65,$,171,2.6,1,techworld ltd
+96,sku-1096,wireless mouse,accessories,251.96,usd,140,2.4,0,abc supplies
+97,sku-1097,solar mouse,outdoor,415.09,usd,0,4.1,1,officehub
+98,sku-1098,heavy-duty desk lamp,outdoor,381.87,usd,160,3.5,0,abc supplies
+99,sku-1099,smart desk lamp,office,227.49,usd,178,3.6,1,abc supplies
+100,sku-1100,heavy-duty mouse,outdoor,299.99,usd,130,5.0,1,abc supplies
+101,sku-1101,smart charger,office,261.8,usd,69,3.4,1,prime distributors
+103,sku-1103,solar desk lamp,outdoor,144.58,usd,0,3.1,0,global goods
+104,sku-1104,wireless mouse,outdoor,0.0,usd,85,3.8,1,officehub
+105,sku-1105,wireless mouse,home & kitchen,0.0,usd,59,4.6,1,prime distributors
+106,sku-1106,modular desk lamp,accessories,202.25,usd,169,4.4,1,techworld ltd
+107,sku-1107,foldable desk lamp,electronics,438.98,usd,130,2.6,1,unknown
+108,sku-1108,solar mouse,home & kitchen,51.29,usd,200,4.9,1,global goods
+109,sku-1109,compact mouse,outdoor,199.3,usd,81,4.0,1,prime distributors
+110,sku-1110,ergonomic headphones,electronics,225.48,usd,25,4.4,0,abc supplies
+111,sku1111,portable keyboard,office,401.13,usd,75,3.3,1,prime distributors
+112,sku-1112,solar notebook,home & kitchen,251.96,usd,20,3.9,1,unknown
+113,sku-1113,foldable keyboard,home & kitchen,251.96,usd,65,3.5,1,abc supplies
+114,sku-1114,smart chair,accessories,473.44,usd,150,3.6,1,prime distributors
+115,sku1115,solar mouse,accessories,66.73,usd,97,3.8,1,officehub
+116,sku-1116,solar backpack,electronics,289.48,usd,175,4.4,1,abc supplies
+117,sku-1117,portable notebook,office,121.22,usd,48,4.0,1,techworld ltd
+118,sku-1118,modular mouse,outdoor,191.96,usd,33,2.5,1,abc supplies
+119,sku-1119,portable keyboard,outdoor,440.08,usd,93,3.7,1,global goods
+120,sku-1120,unknown,office,377.08,usd,86,4.5,0,prime distributors
+121,sku-1121,unknown,accessories,484.13,usd,130,3.8,1,abc supplies
+122,sku-1041,wireless charger,office,341.32,$,172,3.0,1,prime distributors
+123,sku-1123,unknown,outdoor,174.08,usd,120,2.9,1,abc supplies
+124,sku-1124,solar chair,home & kitchen,36.99,usd,9,3.1,1,prime distributors
+125,sku-1125,heavy-duty keyboard,accessories,235.02,usd,171,4.9,1,officehub
+126,sku-1126,smart desk lamp,accessories,332.64,usd,213,3.6,1,prime distributors
+127,sku-1127,portable charger,accessories,476.02,usd,218,3.3,1,global goods
+128,sku-1128,ergonomic headphones,electronics,475.27,usd,210,3.5,1,techworld ltd
+129,sku-1129,compact headphones,home & kitchen,396.68,usd,52,2.5,1,officehub
+130,sku-1130,portable desk lamp,home & kitchen,397.49,usd,152,2.3,1,techworld ltd
+131,sku-1131,smart chair,electronics,78.92,usd,91,4.4,1,techworld ltd
+132,sku-1132,ultra-light keyboard,accessories,270.15,$,190,2.5,1,prime distributors
+133,sku-1133,modular monitor stand,home & kitchen,473.53,usd,11,4.3,1,officehub
+134,sku-1134,ultra-light charger,accessories,221.74,usd,27,3.6,1,prime distributors
+135,sku-1135,foldable keyboard,home and kitchen,76.2,usd,159,4.0,0,officehub
+136,sku-1136,wireless mouse,outdoor,251.96,usd,25,4.4,1,abc supplies
+137,sku-1137,modular desk lamp,home & kitchen,215.7,usd,211,3.5,1,prime distributors
+138,sku-1138,ergonomic desk lamp,home & kitchen,348.11,usd,121,2.5,1,abc supplies
+140,sku1140,compact mouse,unknown,0.0,usd,184,2.4,1,global goods
+141,sku-1141,heavy-duty headphones,home & kitchen,333.52,usd,57,4.6,1,global goods
+142,sku-1142,portable webcam,accessories,424.9,usd,249,4.4,1,officehub
+143,sku-1143,foldable desk lamp,office,29.04,usd,69,4.2,1,global goods
+144,sku-1144,smart notebook,accessories,48.75,usd,189,4.0,1,abc supplies
+145,sku-1145,portable water bottle,office,235.02,usd,40,3.3,1,global goods
+146,sku-1146,smart webcam,outdoor,251.96,usd,120,3.0,1,prime distributors
+147,sku-1147,wireless mouse,outdoor,70.2,usd,110,2.6,1,abc supplies
+148,sku-1148,ultra-light headphones,accessories,492.46,usd,14,2.3,1,global goods
+149,sku-1149,wireless mouse,office,73.19,usd,127,4.3,1,techworld ltd
+150,sku-1150,portable monitor stand,outdoor,199.99,usd,206,3.3,1,abc supplies
