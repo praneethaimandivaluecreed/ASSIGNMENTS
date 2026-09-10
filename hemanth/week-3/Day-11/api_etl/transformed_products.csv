@@ -1,0 +1,145 @@
+,id,sku,product_name,category,price,currency,stock,rating,in_stock,supplier,created_date,tags
+0,1,sku-1001,wireless mouse,office,133.77,usd,35.0,4.3,True,officehub,2026-06-13,['popular']
+1,2,sku-1002,ultra-light mouse,electronics,121.04,usd,129.0,3.9,True,officehub,2026-04-19,['eco']
+2,3,sku-1003,heavy-duty water bottle,home & kitchen,232.87,usd,71.0,4.5,True,abc supplies,2026-06-16,['eco']
+3,4,sku-1004,compact backpack,home & kitchen,119.43,usd,195.0,3.2,True,abc supplies,2026-04-19,"['sale', 'budget']"
+4,5,sku-1005,compact notebook,office,406.46,usd,186.0,3.5,True,abc supplies,2026-08-05,"['sale', 'popular']"
+5,6,sku-1006,wireless mouse,office,0.0,usd,131.0,2.5,True,techworld ltd,2026-03-17,"['sale', 'premium']"
+6,7,sku-1007,wireless water bottle,office,234.9,usd,213.0,3.3,True,global goods,2026-08-10,"['premium', 'eco']"
+7,8,sku-1008,wireless notebook,home & kitchen,274.06,usd,62.0,2.7,True,prime distributors,2026-03-10,"['sale', 'Sale', 'premium']"
+8,9,sku-1009,portable charger,office,423.78,usd,198.0,2.5,True,abc supplies,2026-05-23,"['Sale', 'premium']"
+9,10,sku-1010,portable desk lamp,outdoor,440.04,$,131.0,2.9,True,prime distributors,2026-01-17,"['eco', 'new']"
+10,11,sku-1011,ergonomic keyboard,home & kitchen,376.32,$,137.0,3.0,True,officehub,2026-02-06,"['popular', 'new']"
+11,12,sku-1012,portable keyboard,outdoor,254.36,usd,193.0,2.4,True,abc supplies,2026-04-03,['eco']
+12,13,sku-1013,solar notebook,electronics,201.61,usd,152.0,5.0,True,officehub,2026-02-10,"['popular', 'sale']"
+13,14,sku-1014,wireless charger,outdoor,379.18,usd,196.0,4.0,true,abc supplies,2026-06-24,"['new', 'premium']"
+14,15,sku-1015,ultra-light desk lamp,office,486.37,usd,195.0,3.55,True,abc supplies,2026-04-27,"['budget', 'eco', 'popular']"
+15,16,sku-1016,portable keyboard,office,384.82,usd,138.0,4.9,True,officehub,2026-06-05,['popular']
+16,17,sku-1017,modular mouse,electronics,465.61,usd,224.0,5.0,True,global goods,2026-03-24,['sale']
+17,18,sku-1018,foldable chair,electronics,369.98,usd,208.0,2.5,True,officehub,2026-03-03,[]
+18,19,sku-1019,modular monitor stand,home & kitchen,143.55,usd,131.0,3.9,True,unknown,2026-06-18,"['bestseller', 'eco', 'premium']"
+19,20,sku-1020,ergonomic water bottle,office,227.48,usd,132.0,4.5,True,abc supplies,2026-07-02,"eco,popular"
+20,21,sku-1021,ultra-light notebook,outdoor,126.61,usd,120.0,2.3,True,abc supplies,2026-03-28,['sale']
+21,22,sku-1022,ultra-light mouse,office,246.135,usd,131.0,3.1,True,abc supplies,2026-08-20,['popular']
+22,23,sku-1023,foldable notebook,unknown,132.85,usd,121.0,4.5,True,techworld ltd,2026-02-03,['sale']
+23,24,sku-1024,solar desk lamp,accessories,214.38,usd,221.0,4.3,True,abc supplies,2026-06-18,['new']
+24,25,sku-1025,compact webcam,electronics,135.6,usd,48.0,3.7,False,techworld ltd,2026-07-06,"['premium', 'budget']"
+25,26,sku-1026,wireless mouse,electronics,229.92,usd,220.0,4.6,True,abc supplies,2026-04-29,['eco']
+26,27,sku1027,ultra-light chair,home & kitchen,95.66,usd,124.0,3.6,True,prime distributors,2026-05-19,['premium']
+27,28,sku-1028,ultra-light water bottle,office,246.135,usd,200.0,3.5,True,n/a,15/01/2026,"['eco', 'popular', 'new']"
+28,29,sku-1029,portable backpack,home & kitchen,246.135,usd,120.0,4.3,False,abc supplies,2026-02-09,"['budget', 'sale', 'eco']"
+29,30,sku-1030,modular monitor stand,outdoor,91.35,usd,131.0,3.55,True,techworld ltd,unknown,['popular']
+30,31,sku-1006,portable water bottle,electronics,471.67,usd,145.0,3.8,True,officehub,2026-01-18,['popular']
+31,32,sku-1032,solar charger,outdoor,289.14,inr,80.0,4.8,True,techworld ltd,2026-01-21,"['eco', 'budget', 'premium']"
+32,33,sku-1033,wireless mouse,office,236.75,usd,237.0,4.3,True,abc supplies,2026-03-09,"sale,premium"
+33,34,sku-1034,foldable chair,electronics,275.75,usd,129.0,3.0,True,global goods,2026-06-09,['premium']
+34,35,sku-1035,ergonomic keyboard,accessories,419.37,usd,180.0,3.1,True,officehub,2026-04-05,['eco']
+35,36,sku-1036,heavy-duty backpack,electronics,470.38,usd,34.0,3.0,True,abc supplies,2026-07-29,[]
+36,37,sku-1037,foldable headphones,office,113.74,usd,162.0,4.6,True,officehub,2026-03-14,"['new', 'budget']"
+37,38,sku-1038,solar mouse,office,36.38,usd,85.0,4.4,True,global goods,2026-01-24,['eco']
+38,39,sku-1039,heavy-duty desk lamp,accessories,287.04,usd,28.0,2.5,True,techworld ltd,2026-04-24,"['sale', 'budget', 'popular']"
+39,40,sku-1040,smart water bottle,home & kitchen,35.29,usd,93.0,4.7,True,abc supplies,2026-05-22,"['Sale', 'premium']"
+40,41,sku-1041,wireless desk lamp,outdoor,443.81,usd,104.0,4.9,True,techworld ltd,2026-03-05,['bestseller']
+41,42,sku-1042,smart desk lamp,accessories,27.02,usd,188.0,4.8,True,prime distributors,2026-02-11,"['bestseller', 'eco', 'premium']"
+43,44,sku-1044,modular desk lamp,office,412.96,usd,223.0,2.9,True,abc supplies,2026-08-24,"['premium', 'new', 'budget']"
+44,45,sku-1045,wireless webcam,elec,185.31,usd,130.0,3.4,False,officehub,unknown,[]
+45,46,sku-1046,ergonomic keyboard,outdoor,481.83,usd,67.0,2.4,True,officehub,2026-08-13,"['budget', 'eco']"
+46,47,sku-1047,compact water bottle,outdoor,492.35,usd,29.0,3.3,True,officehub,2026-07-21,['budget']
+47,48,sku-1048,solar mouse,outdoor,463.9,usd,137.0,4.2,True,techworld ltd,2026-01-12,"['new', 'sale']"
+48,49,sku-1049,compact notebook,office,336.74,usd,31.0,4.2,True,global goods,2026-06-20,"['budget', 'eco', 'new']"
+49,50,sku-1050,solar desk lamp,office,283.89,usd,49.0,3.4,True,prime distributors,2026-03-25,"['eco', 'premium', 'popular']"
+50,51,sku-1051,ergonomic water bottle,outdoor,419.36,usd,77.0,3.1,True,prime distributors,2026-05-26,"['popular', 'eco', 'budget']"
+51,52,sku-1052,modular charger,home & kitchen,262.92,usd,203.0,4.7,True,techworld ltd,2026-04-30,"['sale', 'budget', 'popular']"
+52,53,sku-1053,foldable desk lamp,electronics,411.94,usd,192.0,2.9,True,global goods,2026-06-19,['bestseller']
+53,54,sku-1054,smart mouse,electronics,133.75,usd,121.0,4.0,True,abc supplies,2026-02-20,"['new', 'eco']"
+54,55,sku-1055,portable desk lamp,accessories,254.77,usd,62.0,2.7,True,abc supplies,2026-05-28,['bestseller']
+55,56,sku-1056,portable keyboard,outdoor,240.31,usd,142.0,3.0,True,abc supplies,2026-04-19,"['premium', 'new']"
+56,57,sku-1057,heavy-duty monitor stand,outdoor,168.89,usd,193.0,4.7,True,officehub,2026-06-20,"['popular', 'new', 'bestseller']"
+57,58,sku-1058,smart desk lamp,accessories,233.28,usd,192.0,3.0,True,global goods,2026-04-25,"['new', 'eco', 'premium']"
+58,59,sku-1059,modular chair,office,128.73,usd,85.0,3.2,True,officehub,2026-03-12,['premium']
+59,60,sku-1060,portable water bottle,home & kitchen,357.61,usd,16.0,3.4,True,global goods,2026-02-08,"['new', 'bestseller', 'sale']"
+60,61,sku-1061,heavy-duty water bottle,outdoor,473.84,usd,5.0,4.6,True,officehub,2026-02-22,[]
+61,62,sku-1062,ergonomic webcam,accessories,428.92,usd,244.0,4.6,True,officehub,2026-04-01,"['eco', 'popular', 'bestseller']"
+62,63,sku-1063,portable charger,home & kitchen,147.37,usd,124.0,2.4,False,global goods,2026/01/15,"['eco', 'new', 'premium']"
+63,64,sku-1064,modular desk lamp,home & kitchen,490.65,usd,136.0,2.4,True,prime distributors,2026-08-04,"['popular', 'eco', 'sale']"
+64,65,sku-1065,solar keyboard,accessories,103.14,inr,66.0,3.3,True,techworld ltd,2026-01-22,"['budget', 'bestseller']"
+65,66,sku-1066,solar backpack,accessories,246.135,usd,20.0,3.6,True,abc supplies,31/02/2026,['budget']
+66,67,sku-1067,wireless webcam,electronics,380.8,usd,243.0,3.0,True,abc supplies,2026-02-27,"['premium', 'bestseller', 'eco']"
+67,68,sku-1068,wireless notebook,home & kitchen,0.0,usd,131.0,4.4,True,techworld ltd,15-01-2026,"['popular', 'eco', 'sale']"
+68,69,sku-1069,smart backpack,electronics,295.66,usd,237.0,3.1,True,prime distributors,2026-07-19,"['eco', 'premium']"
+69,70,sku-1070,foldable desk lamp,home & kitchen,64.42,usd,197.0,3.1,True,officehub,2026-01-20,['bestseller']
+70,71,sku-1071,ultra-light desk lamp,outdoor,222.76,usd,94.0,2.5,True,global goods,2026-05-25,['bestseller']
+71,72,sku-1072,modular chair,accessories,480.98,usd,162.0,4.7,True,prime distributors,2026-04-18,"['premium', 'new', 'bestseller']"
+72,73,sku-1073,heavy-duty charger,office,313.72,usd,235.0,3.8,True,prime distributors,2026-07-07,"['new', 'eco']"
+73,74,sku-1074,ergonomic desk lamp,home & kitchen,417.9,₹,22.0,3.1,True,prime distributors,2026-06-01,['bestseller']
+75,76,unknown,ergonomic desk lamp,office,441.96,usd,179.0,4.7,True,officehub,2026-07-24,['popular']
+76,77,sku-1077,wireless headphones,accessories,251.96,usd,194.0,2.9,True,prime distributors,2026-02-18,"['eco', 'new', 'bestseller']"
+77,78,sku-1078,ultra-light chair,home & kitchen,122.47,usd,177.0,3.0,True,officehub,2026-07-22,"['new', 'popular']"
+78,79,unknown,compact water bottle,outdoor,175.43,usd,179.0,3.5,True,global goods,2026-05-16,"['premium', 'sale']"
+80,81,sku-1081,modular backpack,outdoor,488.65,inr,134.0,3.9,True,unknown,2026-07-09,['budget']
+82,83,sku-1083,smart charger,accessories,64.76,usd,50.0,3.8,True,prime distributors,2026-03-16,"['new', 'budget']"
+83,84,unknown,ultra-light backpack,accessories,246.135,usd,16.0,3.4,True,abc supplies,2026-02-17,"['eco', 'bestseller', 'sale']"
+84,85,sku-1085,smart webcam,outdoor,475.33,₹,21.0,5.0,True,abc supplies,2026-02-08,"['bestseller', 'new', 'popular']"
+85,86,sku-1086,foldable headphones,outdoor,199.48,usd,232.0,3.5,True,officehub,2026-06-02,"['budget', 'popular']"
+86,87,sku-1087,ultra-light notebook,electronics,474.58,usd,53.0,4.0,True,global goods,2026-06-08,"['sale', 'premium', 'eco']"
+87,88,sku-1088,heavy-duty chair,home & kitchen,16.3,usd,115.0,4.2,True,prime distributors,2026-02-14,"['sale', 'premium']"
+88,89,sku-1089,ergonomic desk lamp,accessories,49.52,usd,131.0,4.8,True,officehub,2026-03-15,"['bestseller', 'premium', 'new']"
+89,90,sku-1090,heavy-duty headphones,home & kitchen,455.58,usd,211.0,2.7,True,abc supplies,2026-01-30,['bestseller']
+90,91,sku-1091,foldable desk lamp,outdoor,461.78,usd,112.0,2.6,True,global goods,2026-03-20,"['new', 'budget', 'popular']"
+91,92,sku-1021,modular charger,electronics,305.05,us dollar,227.0,3.5,True,global goods,2026-05-19,"['budget', 'sale', 'eco']"
+92,93,sku-1093,wireless   mouse,electronics,499.79,usd,172.0,4.5,True,officehub,2026/01/15,"eco,popular"
+93,94,sku-1094,wireless mouse,outdoor,330.98,usd,234.0,3.1,True,n/a,01/15/2026,sale
+94,95,sku-1095,modular desk lamp,accessories,176.65,$,171.0,2.6,True,techworld ltd,2026-01-24,"eco,popular"
+95,96,sku-1096,wireless mouse,accessories,246.135,usd,140.0,2.4,False,abc supplies,2026-05-07,"sale,premium"
+96,97,sku-1097,solar mouse,outdoor,415.09,usd,0.0,4.1,True,officehub,2026-01-30,"['new', 'sale']"
+97,98,sku-1098,heavy-duty desk lamp,outdoor,381.87,usd,160.0,3.5,False,abc supplies,31/02/2026,['budget']
+98,99,sku-1099,smart desk lamp,office,227.49,usd,178.0,3.6,True,abc supplies,2026-05-21,"['new', 'budget']"
+99,100,sku-1100,heavy-duty mouse,outdoor,246.135,usd,131.0,5.0,True,abc supplies,2026-03-21,"['sale', 'eco']"
+100,101,sku-1101,smart charger,office,261.8,usd,69.0,3.4,True,prime distributors,2026-08-02,"['premium', 'new']"
+102,103,sku-1103,solar desk lamp,outdoor,144.58,usd,0.0,3.1,false,global goods,2026-07-17,"['popular', 'eco', 'new']"
+103,104,sku-1104,wireless mouse,outdoor,0.0,usd,85.0,3.8,True,officehub,2026-08-10,"['new', 'budget']"
+104,105,sku-1105,wireless mouse,home & kitchen,0.0,usd,59.0,4.6,True,prime distributors,15-01-2026,['budget']
+105,106,sku-1106,modular desk lamp,accessories,202.25,usd,169.0,4.4,True,techworld ltd,2026-07-10,"['sale', 'premium']"
+106,107,sku-1107,foldable desk lamp,electronics,438.98,usd,131.0,2.6,True,unknown,2026-05-09,['eco']
+107,108,sku-1108,solar mouse,home & kitchen,51.29,usd,200.0,4.9,True,global goods,2026-02-06,"['eco', 'new', 'sale']"
+108,109,sku-1109,compact mouse,outdoor,199.3,usd,81.0,4.0,True,prime distributors,2026-08-07,"['sale', 'popular', 'bestseller']"
+109,110,sku-1110,ergonomic headphones,electronics,225.48,usd,25.0,4.4,0,abc supplies,2026-03-02,"['premium', 'eco']"
+110,111,sku1111,portable keyboard,office,401.13,usd,75.0,3.3,True,prime distributors,2026-03-18,['premium']
+111,112,sku-1112,solar notebook,home & kitchen,246.135,usd,20.0,3.9,True,unknown,01/15/2026,"['eco', 'premium', 'new']"
+112,113,sku-1113,foldable keyboard,home & kitchen,246.135,usd,65.0,3.5,True,abc supplies,31/02/2026,"['sale', 'Sale', 'premium']"
+113,114,sku-1114,smart chair,accessories,473.44,usd,150.0,3.55,True,prime distributors,2026-05-20,"['Sale', 'premium']"
+114,115,sku1115,solar mouse,accessories,66.73,usd,97.0,3.8,True,officehub,2026-02-20,"['eco', 'budget']"
+115,116,sku-1116,solar backpack,electronics,289.48,usd,175.0,4.4,True,abc supplies,unknown,"['Sale', 'premium']"
+116,117,sku-1117,portable notebook,office,121.22,usd,48.0,4.0,True,techworld ltd,2026-07-18,"['sale', 'eco', 'bestseller']"
+117,118,sku-1118,modular mouse,outdoor,191.96,usd,33.0,2.5,True,abc supplies,2026-03-21,"['eco', 'new']"
+118,119,sku-1119,portable keyboard,outdoor,440.08,usd,93.0,3.7,True,global goods,2026-02-14,['budget']
+119,120,sku-1120,unknown,office,377.08,usd,86.0,4.5,False,prime distributors,2026-08-22,['premium']
+120,121,sku-1121,,accessories,484.13,usd,131.0,3.8,True,abc supplies,2026-07-13,"['sale', 'budget']"
+121,122,sku-1041,wireless charger,office,341.32,$,172.0,3.0,True,prime distributors,2026-05-18,"['budget', 'sale', 'premium']"
+122,123,sku-1123,unknown,outdoor,174.08,usd,120.0,2.9,True,abc supplies,2026-05-01,"['bestseller', 'new', 'budget']"
+123,124,sku-1124,solar chair,home & kitchen,36.99,usd,9.0,3.1,True,prime distributors,2026-06-16,['sale']
+124,125,sku-1125,heavy-duty keyboard,accessories,235.02,usd,171.0,4.9,True,officehub,2026-03-02,"['popular', 'eco']"
+125,126,sku-1126,smart desk lamp,accessories,332.64,usd,213.0,3.6,True,prime distributors,2026-07-06,"['sale', 'eco']"
+126,127,sku-1127,portable charger,accessories,476.02,usd,218.0,3.3,True,global goods,2026-04-05,"['eco', 'budget', 'sale']"
+127,128,sku-1128,ergonomic headphones,electronics,475.27,usd,210.0,3.5,True,techworld ltd,2026-04-12,"['eco', 'popular', 'sale']"
+128,129,sku-1129,compact headphones,home & kitchen,396.68,usd,52.0,2.5,True,officehub,2026-01-13,['popular']
+129,130,sku-1130,portable desk lamp,home & kitchen,397.49,usd,152.0,2.3,True,techworld ltd,2026-02-25,['popular']
+130,131,sku-1131,smart chair,electronics,78.92,usd,91.0,4.4,True,techworld ltd,2026-03-06,"['budget', 'sale', 'premium']"
+131,132,sku-1132,ultra-light keyboard,accessories,270.15,$,190.0,2.5,True,prime distributors,2026-03-09,"['popular', 'bestseller']"
+132,133,sku-1133,modular monitor stand,home & kitchen,473.53,usd,11.0,4.3,True,officehub,2026-01-28,"['new', 'eco']"
+133,134,sku-1134,ultra-light charger,accessories,221.74,usd,27.0,3.6,True,prime distributors,2026-01-08,['sale']
+134,135,sku-1135,foldable keyboard,home and kitchen,76.2,usd,159.0,4.0,NO,officehub,2026/01/15,"['budget', 'new', 'popular']"
+135,136,sku-1136,wireless mouse,outdoor,246.135,usd,25.0,4.4,True,abc supplies,2026-05-16,sale
+136,137,sku-1137,modular desk lamp,home & kitchen,215.7,usd,211.0,3.5,True,prime distributors,2026-04-21,"['sale', 'budget', 'new']"
+137,138,sku-1138,ergonomic desk lamp,home & kitchen,348.11,usd,121.0,2.5,True,abc supplies,2026-03-22,['new']
+139,140,sku1140,compact mouse,unknown,0.0,usd,184.0,2.4,True,global goods,31/02/2026,"['budget', 'bestseller', 'sale']"
+140,141,sku-1141,heavy-duty headphones,home & kitchen,333.52,usd,57.0,4.6,True,global goods,2026-05-28,"['budget', 'sale', 'bestseller']"
+141,142,sku-1142,portable webcam,accessories,424.9,usd,249.0,4.4,True,officehub,2026-05-27,"['eco', 'bestseller', 'popular']"
+142,143,sku-1143,foldable desk lamp,office,29.04,usd,69.0,4.2,True,global goods,2026-01-07,"['budget', 'sale']"
+143,144,sku-1144,smart notebook,accessories,48.75,usd,189.0,4.0,True,abc supplies,2026-02-16,['eco']
+144,145,sku-1145,portable water bottle,office,235.02,usd,40.0,3.3,True,global goods,15/01/2026,"['popular', 'sale', 'eco']"
+145,146,sku-1146,smart webcam,outdoor,246.135,usd,131.0,3.0,True,prime distributors,2026-02-09,[]
+146,147,sku-1147,wireless mouse,outdoor,70.2,usd,110.0,2.6,True,abc supplies,unknown,"sale,premium"
+147,148,sku-1148,ultra-light headphones,accessories,492.46,usd,14.0,2.3,True,global goods,2026-03-20,['bestseller']
+148,149,sku-1149,wireless mouse,office,73.19,usd,127.0,4.3,True,techworld ltd,2026-02-05,['new']
+149,150,sku-1150,portable monitor stand,outdoor,199.99,usd,206.0,3.3,True,abc supplies,2026-13-40,"['sale', 'new', 'bestseller']"

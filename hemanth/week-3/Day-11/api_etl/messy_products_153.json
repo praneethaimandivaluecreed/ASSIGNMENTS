@@ -1,0 +1,2558 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU-1001",
+    "product_name": "Wireless Mouse",
+    "category": "Office",
+    "price": 133.77,
+    "currency": "USD",
+    "stock": 35,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-06-13",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "SKU-1002",
+    "product_name": "Ultra-Light Mouse",
+    "category": "Electronics",
+    "price": 121.04,
+    "currency": "USD",
+    "stock": 129,
+    "rating": 3.9,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-04-19",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "SKU-1003",
+    "product_name": "Heavy-Duty Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 232.87,
+    "currency": "USD",
+    "stock": 71,
+    "rating": 4.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-06-16",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 4,
+    "sku": "SKU-1004",
+    "product_name": "Compact Backpack",
+    "category": "Home & Kitchen",
+    "price": 119.43,
+    "currency": "USD",
+    "stock": 195,
+    "rating": 3.2,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-04-19",
+    "tags": [
+      "sale",
+      "budget"
+    ]
+  },
+  {
+    "id": 5,
+    "sku": "SKU-1005",
+    "product_name": "Compact Notebook",
+    "category": "Office",
+    "price": 406.46,
+    "currency": "USD",
+    "stock": 186,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-08-05",
+    "tags": [
+      "sale",
+      "popular"
+    ]
+  },
+  {
+    "id": 6,
+    "sku": "SKU-1006",
+    "product_name": " wireless mouse",
+    "category": "Office",
+    "price": 0,
+    "currency": "USD",
+    "stock": "N/A",
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-03-17",
+    "tags": [
+      "sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 7,
+    "sku": "SKU-1007",
+    "product_name": "Wireless Water Bottle",
+    "category": "Office",
+    "price": 234.9,
+    "currency": "USD",
+    "stock": 213,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-08-10",
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "id": 8,
+    "sku": "SKU-1008",
+    "product_name": "Wireless Notebook",
+    "category": "Home & Kitchen",
+    "price": 274.06,
+    "currency": "USD",
+    "stock": 62,
+    "rating": 2.7,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-03-10",
+    "tags": [
+      "sale",
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 9,
+    "sku": "SKU-1009",
+    "product_name": "Portable Charger",
+    "category": "Office",
+    "price": 423.78,
+    "currency": "USD",
+    "stock": 198,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-23",
+    "tags": [
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 10,
+    "sku": "SKU-1010",
+    "product_name": "Portable Desk Lamp",
+    "category": "Outdoor",
+    "price": 440.04,
+    "currency": "$",
+    "stock": "",
+    "rating": 2.9,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-01-17",
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "id": 11,
+    "sku": "SKU-1011",
+    "product_name": "Ergonomic Keyboard",
+    "category": "Home & Kitchen",
+    "price": 376.32,
+    "currency": "$",
+    "stock": 137,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-02-06",
+    "tags": [
+      "popular",
+      "new"
+    ]
+  },
+  {
+    "id": 12,
+    "sku": "SKU-1012",
+    "product_name": "Portable Keyboard",
+    "category": "Outdoor",
+    "price": 254.36,
+    "currency": "USD",
+    "stock": 193,
+    "rating": 2.4,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-04-03",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 13,
+    "sku": "SKU-1013",
+    "product_name": "Solar Notebook",
+    "category": "Electronics",
+    "price": 201.61,
+    "currency": "USD ",
+    "stock": 152,
+    "rating": 5.0,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-02-10",
+    "tags": [
+      "popular",
+      "sale"
+    ]
+  },
+  {
+    "id": 14,
+    "sku": "SKU-1014",
+    "product_name": "Wireless Charger",
+    "category": "Outdoor",
+    "price": 379.18,
+    "currency": "USD",
+    "stock": 196,
+    "rating": 4.0,
+    "in_stock": "true",
+    "supplier": "ABC Supplies",
+    "created_date": "2026-06-24",
+    "tags": [
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "id": 15,
+    "sku": "SKU-1015",
+    "product_name": "Ultra-Light Desk Lamp",
+    "category": "Office",
+    "price": 486.37,
+    "currency": "USD",
+    "stock": 195,
+    "rating": "4/5",
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-04-27",
+    "tags": [
+      "budget",
+      "eco",
+      "popular"
+    ]
+  },
+  {
+    "id": 16,
+    "sku": "SKU-1016",
+    "product_name": "Portable Keyboard",
+    "category": "Office",
+    "price": 384.82,
+    "currency": "USD",
+    "stock": 138,
+    "rating": 4.9,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-06-05",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 17,
+    "sku": "SKU-1017",
+    "product_name": "Modular Mouse",
+    "category": "Electronics",
+    "price": 465.61,
+    "currency": "USD",
+    "stock": 224,
+    "rating": 5.0,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-03-24",
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "id": 18,
+    "sku": "SKU-1018",
+    "product_name": "Foldable Chair",
+    "category": "Electronics",
+    "price": 369.98,
+    "currency": "USD",
+    "stock": 208,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-03-03",
+    "tags": []
+  },
+  {
+    "id": 19,
+    "sku": "SKU-1019",
+    "product_name": "Modular Monitor Stand",
+    "category": "Home & Kitchen",
+    "price": 143.55,
+    "currency": "USD",
+    "stock": "N/A",
+    "rating": 3.9,
+    "in_stock": true,
+    "created_date": "2026-06-18",
+    "tags": [
+      "bestseller",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "id": 20,
+    "sku": "SKU-1020",
+    "product_name": "Ergonomic Water Bottle",
+    "category": "Office",
+    "price": 227.48,
+    "currency": "USD",
+    "stock": 132,
+    "rating": "4.5",
+    "in_stock": "True",
+    "supplier": " ABC Supplies",
+    "created_date": "2026-07-02",
+    "tags": "eco,popular"
+  },
+  {
+    "id": 21,
+    "sku": " SKU-1021 ",
+    "product_name": "Ultra-Light Notebook",
+    "category": "Outdoor",
+    "price": 126.61,
+    "currency": "USD",
+    "stock": "120",
+    "rating": 2.3,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-03-28",
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "id": 22,
+    "sku": "SKU-1022",
+    "product_name": "Ultra-Light Mouse",
+    "category": "Office",
+    "price": "unknown",
+    "currency": "USD",
+    "stock": "120 units",
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "2026-08-20",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 23,
+    "sku": "SKU-1023",
+    "product_name": "Foldable Notebook",
+    "price": 132.85,
+    "currency": "USD",
+    "stock": 121,
+    "rating": 4.5,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-02-03",
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "id": 24,
+    "sku": "SKU-1024",
+    "product_name": "Solar Desk Lamp",
+    "category": "Accessories",
+    "price": 214.38,
+    "currency": "USD",
+    "stock": 221,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-06-18",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": 25,
+    "sku": "SKU-1025",
+    "product_name": "Compact Webcam",
+    "category": "electronics",
+    "price": 135.6,
+    "currency": "USD",
+    "stock": 48,
+    "rating": 3.7,
+    "in_stock": "False",
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-07-06",
+    "tags": [
+      "premium",
+      "budget"
+    ]
+  },
+  {
+    "id": 26,
+    "sku": "SKU-1026",
+    "product_name": "Wireless Mouse ",
+    "category": "Electronics",
+    "price": 229.92,
+    "currency": "USD",
+    "stock": 220,
+    "rating": 4.6,
+    "in_stock": "True",
+    "supplier": "ABC Supplies",
+    "created_date": "2026-04-29",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 27,
+    "sku": "SKU1027",
+    "product_name": "Ultra-Light Chair",
+    "category": "Home & Kitchen",
+    "price": 95.66,
+    "currency": "USD",
+    "stock": 124,
+    "rating": 3.6,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-05-19",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 28,
+    "sku": "SKU-1028",
+    "product_name": "Ultra-Light Water Bottle",
+    "category": "Office",
+    "price": "unknown",
+    "currency": "USD",
+    "stock": 200,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "N/A",
+    "created_date": "15/01/2026",
+    "tags": [
+      "eco",
+      "popular",
+      "new"
+    ]
+  },
+  {
+    "id": 29,
+    "sku": "SKU-1029",
+    "product_name": "Portable Backpack",
+    "category": "Home & Kitchen",
+    "price": null,
+    "currency": "USD",
+    "stock": "120",
+    "rating": 4.3,
+    "in_stock": "False",
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-09",
+    "tags": [
+      "budget",
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "id": 30,
+    "sku": "SKU-1030",
+    "product_name": "Modular Monitor Stand",
+    "category": "Outdoor",
+    "price": 91.35,
+    "currency": "USD",
+    "stock": "",
+    "rating": null,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "unknown",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 31,
+    "sku": "SKU-1006",
+    "product_name": "Portable Water Bottle",
+    "category": "Electronics",
+    "price": 471.67,
+    "currency": "USD",
+    "stock": 145,
+    "rating": "3.8",
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-18",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 32,
+    "sku": "SKU-1032",
+    "product_name": "Solar Charger",
+    "category": "Outdoor",
+    "price": 289.14,
+    "currency": "INR",
+    "stock": 80,
+    "rating": 4.8,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-01-21",
+    "tags": [
+      "eco",
+      "budget",
+      "premium"
+    ]
+  },
+  {
+    "id": 33,
+    "sku": "SKU-1033",
+    "product_name": "Wireless Mouse ",
+    "category": "Office",
+    "price": 236.75,
+    "currency": "USD",
+    "stock": 237,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-03-09",
+    "tags": "sale,premium"
+  },
+  {
+    "id": 34,
+    "sku": "SKU-1034",
+    "product_name": "Foldable Chair",
+    "category": "Electronics",
+    "price": 275.75,
+    "currency": "USD",
+    "stock": 129,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-06-09",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 35,
+    "sku": "SKU-1035",
+    "product_name": "Ergonomic Keyboard",
+    "category": "Accessories",
+    "price": 419.37,
+    "currency": "USD",
+    "stock": 180,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-04-05",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 36,
+    "sku": "SKU-1036",
+    "product_name": "Heavy-Duty Backpack",
+    "category": "Electronics",
+    "price": 470.38,
+    "currency": "USD",
+    "stock": 34,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-07-29",
+    "tags": []
+  },
+  {
+    "id": 37,
+    "sku": "SKU-1037",
+    "product_name": "Foldable Headphones",
+    "category": "Office",
+    "price": 113.74,
+    "currency": "USD",
+    "stock": 162,
+    "rating": 4.6,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-03-14",
+    "tags": [
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 38,
+    "sku": "SKU-1038",
+    "product_name": "Solar Mouse",
+    "category": "Office",
+    "price": 36.38,
+    "currency": "USD",
+    "stock": 85,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-01-24",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 39,
+    "sku": "SKU-1039",
+    "product_name": "Heavy-Duty Desk Lamp",
+    "category": "Accessories",
+    "price": 287.04,
+    "currency": "USD",
+    "stock": 28,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-04-24",
+    "tags": [
+      "sale",
+      "budget",
+      "popular"
+    ]
+  },
+  {
+    "id": 40,
+    "sku": "SKU-1040",
+    "product_name": "Smart Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 35.29,
+    "currency": "USD",
+    "stock": 93,
+    "rating": 4.7,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-22",
+    "tags": [
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 41,
+    "sku": "SKU-1041",
+    "product_name": "Wireless Desk Lamp",
+    "category": "Outdoor",
+    "price": 443.81,
+    "currency": "USD",
+    "stock": 104,
+    "rating": 4.9,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-03-05",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 42,
+    "sku": "SKU-1042",
+    "product_name": "Smart Desk Lamp",
+    "category": "Accessories",
+    "price": 27.02,
+    "currency": "USD",
+    "stock": 188,
+    "rating": 4.8,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-02-11",
+    "tags": [
+      "bestseller",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "id": 43,
+    "sku": "sku-1043",
+    "product_name": "Smart Webcam",
+    "category": "Electronics",
+    "price": 200.53,
+    "currency": "USD",
+    "stock": "120",
+    "rating": 5.8,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "2026-03-10",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 44,
+    "sku": "SKU-1044",
+    "product_name": "Modular Desk Lamp",
+    "category": "Office",
+    "price": 412.96,
+    "currency": "USD",
+    "stock": 223,
+    "rating": 2.9,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "2026-08-24",
+    "tags": [
+      "premium",
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 45,
+    "sku": "SKU-1045",
+    "product_name": "Wireless Webcam",
+    "category": "Elec",
+    "price": 185.31,
+    "currency": "USD",
+    "stock": 130,
+    "rating": 3.4,
+    "in_stock": false,
+    "supplier": "OfficeHub",
+    "created_date": null
+  },
+  {
+    "id": 46,
+    "sku": "SKU-1046",
+    "product_name": "Ergonomic Keyboard",
+    "category": "Outdoor",
+    "price": 481.83,
+    "currency": "USD",
+    "stock": 67,
+    "rating": 2.4,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-08-13",
+    "tags": [
+      "budget",
+      "eco"
+    ]
+  },
+  {
+    "id": 47,
+    "sku": " SKU-1047 ",
+    "product_name": "Compact Water Bottle",
+    "category": "Outdoor",
+    "price": 492.35,
+    "currency": "USD",
+    "stock": 29,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-07-21",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 48,
+    "sku": "SKU-1048",
+    "product_name": "Solar Mouse",
+    "category": "Outdoor",
+    "price": 463.9,
+    "currency": "USD",
+    "stock": 137,
+    "rating": 4.2,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-01-12",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "id": 49,
+    "sku": "SKU-1049",
+    "product_name": "Compact Notebook",
+    "category": "Office",
+    "price": 336.74,
+    "currency": "USD ",
+    "stock": 31,
+    "rating": 4.2,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-06-20",
+    "tags": [
+      "budget",
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "id": 50,
+    "sku": "SKU-1050",
+    "product_name": "Solar Desk Lamp",
+    "category": "Office",
+    "price": 283.89,
+    "currency": "USD",
+    "stock": 49,
+    "rating": 3.4,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-03-25",
+    "tags": [
+      "eco",
+      "premium",
+      "popular"
+    ]
+  },
+  {
+    "id": 51,
+    "sku": "SKU-1051",
+    "product_name": "Ergonomic Water Bottle",
+    "category": "Outdoor",
+    "price": 419.36,
+    "currency": "USD",
+    "stock": 77,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-05-26",
+    "tags": [
+      "popular",
+      "eco",
+      "budget"
+    ]
+  },
+  {
+    "id": 52,
+    "sku": "SKU-1052",
+    "product_name": "Modular Charger",
+    "category": "Home & Kitchen",
+    "price": 262.92,
+    "currency": "USD",
+    "stock": 203,
+    "rating": 4.7,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-04-30",
+    "tags": [
+      "sale",
+      "budget",
+      "popular"
+    ]
+  },
+  {
+    "id": 53,
+    "sku": "SKU-1053",
+    "product_name": "Foldable Desk Lamp",
+    "category": "Electronics",
+    "price": 411.94,
+    "currency": "USD",
+    "stock": 192,
+    "rating": 2.9,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-06-19",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 54,
+    "sku": "SKU-1054",
+    "product_name": "Smart Mouse",
+    "category": "Electronics",
+    "price": 133.75,
+    "currency": "USD",
+    "stock": 121,
+    "rating": 4.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-20",
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "id": 55,
+    "sku": "SKU-1055",
+    "product_name": "Portable Desk Lamp",
+    "category": "Accessories",
+    "price": 254.77,
+    "currency": "USD",
+    "stock": 62,
+    "rating": 2.7,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-28",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 56,
+    "sku": "SKU-1056",
+    "product_name": "Portable Keyboard",
+    "category": "Outdoor",
+    "price": 240.31,
+    "currency": "USD",
+    "stock": 142,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-04-19",
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "id": 57,
+    "sku": "SKU-1057",
+    "product_name": "Heavy-Duty Monitor Stand",
+    "category": "Outdoor",
+    "price": 168.89,
+    "currency": "USD",
+    "stock": 193,
+    "rating": 4.7,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-06-20",
+    "tags": [
+      "popular",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 58,
+    "sku": "SKU-1058",
+    "product_name": "Smart Desk Lamp",
+    "category": "Accessories",
+    "price": 233.28,
+    "currency": "USD",
+    "stock": 192,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-04-25",
+    "tags": [
+      "new",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "id": 59,
+    "sku": "SKU-1059",
+    "product_name": "Modular Chair",
+    "category": "Office",
+    "price": 128.73,
+    "currency": "USD",
+    "stock": 85,
+    "rating": 3.2,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-03-12",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 60,
+    "sku": "SKU-1060",
+    "product_name": "Portable Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 357.61,
+    "currency": "USD",
+    "stock": 16,
+    "rating": 3.4,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-02-08",
+    "tags": [
+      "new",
+      "bestseller",
+      "sale"
+    ]
+  },
+  {
+    "id": 61,
+    "sku": "SKU-1061",
+    "product_name": "Heavy-Duty Water Bottle",
+    "category": "Outdoor",
+    "price": 473.84,
+    "currency": "USD",
+    "stock": 5,
+    "rating": 4.6,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-02-22",
+    "tags": null
+  },
+  {
+    "id": 62,
+    "sku": "SKU-1062",
+    "product_name": "Ergonomic Webcam",
+    "category": "Accessories",
+    "price": 428.92,
+    "currency": "USD",
+    "stock": 244,
+    "rating": 4.6,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-04-01",
+    "tags": [
+      "eco",
+      "popular",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 63,
+    "sku": "SKU-1063",
+    "product_name": "Portable Charger",
+    "category": "Home & Kitchen",
+    "price": 147.37,
+    "currency": "USD",
+    "stock": 124,
+    "rating": 2.4,
+    "in_stock": false,
+    "supplier": "Global Goods",
+    "created_date": "2026/01/15",
+    "tags": [
+      "eco",
+      "new",
+      "premium"
+    ]
+  },
+  {
+    "id": 64,
+    "sku": "SKU-1064",
+    "product_name": "Modular Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 490.65,
+    "currency": "USD",
+    "stock": 136,
+    "rating": 2.4,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-08-04",
+    "tags": [
+      "popular",
+      "eco",
+      "sale"
+    ]
+  },
+  {
+    "id": 65,
+    "sku": "SKU-1065",
+    "product_name": "Solar Keyboard",
+    "category": "Accessories",
+    "price": 103.14,
+    "currency": "INR",
+    "stock": 66,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-01-22",
+    "tags": [
+      "budget",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 66,
+    "sku": "SKU-1066",
+    "product_name": "Solar Backpack",
+    "category": "Accessories",
+    "price": null,
+    "currency": "USD",
+    "stock": 20,
+    "rating": 3.6,
+    "in_stock": true,
+    "supplier": "abc supplies",
+    "created_date": "31/02/2026",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 67,
+    "sku": "SKU-1067",
+    "product_name": "Wireless Webcam",
+    "category": "Electronics",
+    "price": 380.8,
+    "currency": "USD",
+    "stock": 243,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-27",
+    "tags": [
+      "premium",
+      "bestseller",
+      "eco"
+    ]
+  },
+  {
+    "id": 68,
+    "sku": "SKU-1068",
+    "product_name": "Wireless Notebook",
+    "category": "Home & Kitchen",
+    "price": 0,
+    "currency": "USD",
+    "stock": "",
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "15-01-2026",
+    "tags": [
+      "popular",
+      "eco",
+      "sale"
+    ]
+  },
+  {
+    "id": 69,
+    "sku": "SKU-1069",
+    "product_name": "Smart Backpack",
+    "category": "Electronics",
+    "price": 295.66,
+    "currency": "USD",
+    "stock": 237,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-07-19",
+    "tags": [
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "id": 70,
+    "sku": "SKU-1070",
+    "product_name": "Foldable Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 64.42,
+    "currency": "USD",
+    "stock": 197,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-20",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 71,
+    "sku": "SKU-1071",
+    "product_name": "Ultra-Light Desk Lamp",
+    "category": "Outdoor",
+    "price": 222.76,
+    "currency": "USD",
+    "stock": 94,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-05-25",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 72,
+    "sku": "SKU-1072",
+    "product_name": "Modular Chair",
+    "category": "Accessories",
+    "price": 480.98,
+    "currency": "USD",
+    "stock": 162,
+    "rating": 4.7,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-04-18",
+    "tags": [
+      "premium",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 73,
+    "sku": "SKU-1073",
+    "product_name": "Heavy-Duty Charger",
+    "category": "Office",
+    "price": 313.72,
+    "currency": "USD",
+    "stock": 235,
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-07-07",
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "id": 74,
+    "sku": "SKU-1074",
+    "product_name": "Ergonomic Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 417.9,
+    "currency": "₹",
+    "stock": 22,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-06-01",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 75,
+    "sku": "SKU-1075",
+    "product_name": "WIRELESS MOUSE",
+    "category": "Accessories",
+    "price": 178.15,
+    "currency": "USD",
+    "stock": 126,
+    "rating": -1,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-04-29",
+    "tags": [
+      "premium",
+      "budget"
+    ]
+  },
+  {
+    "id": 76,
+    "sku": null,
+    "product_name": "Ergonomic Desk Lamp",
+    "category": "Office",
+    "price": 441.96,
+    "currency": "USD",
+    "stock": 179,
+    "rating": 4.7,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-07-24",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 77,
+    "sku": "SKU-1077",
+    "product_name": "Wireless Headphones",
+    "category": "Accessories",
+    "price": 251.96,
+    "currency": "USD",
+    "stock": 194,
+    "rating": 2.9,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-02-18",
+    "tags": [
+      "eco",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 78,
+    "sku": "SKU-1078",
+    "product_name": "Ultra-Light Chair",
+    "category": "home & kitchen",
+    "price": 122.47,
+    "currency": "USD",
+    "stock": 177,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-07-22",
+    "tags": [
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "id": 79,
+    "sku": null,
+    "product_name": "Compact Water Bottle",
+    "category": "Outdoor",
+    "price": 175.43,
+    "currency": "USD",
+    "stock": 179,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-05-16",
+    "tags": [
+      "premium",
+      "sale"
+    ]
+  },
+  {
+    "id": 80,
+    "sku": "SKU-1080",
+    "product_name": "Portable Desk Lamp",
+    "category": "Electronics",
+    "price": 375.3,
+    "currency": "$",
+    "stock": 243,
+    "rating": -1,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-07-04",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 81,
+    "sku": "SKU-1081",
+    "product_name": "Modular Backpack",
+    "category": "Outdoor",
+    "price": 488.65,
+    "currency": "INR",
+    "stock": 134,
+    "rating": 3.9,
+    "in_stock": true,
+    "supplier": null,
+    "created_date": "2026-07-09",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 82,
+    "sku": "SKU-1082",
+    "product_name": "Compact Keyboard",
+    "category": "electronics",
+    "price": 21.86,
+    "stock": 136,
+    "rating": -1,
+    "in_stock": "false",
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-28",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 83,
+    "sku": " SKU-1083 ",
+    "product_name": "Smart Charger",
+    "category": "Accessories",
+    "price": 64.76,
+    "currency": "USD",
+    "stock": "50",
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-03-16",
+    "tags": [
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 84,
+    "sku": null,
+    "product_name": "Ultra-Light Backpack",
+    "category": "Accessories",
+    "price": null,
+    "currency": "USD",
+    "stock": 16,
+    "rating": 3.4,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-17",
+    "tags": [
+      "eco",
+      "bestseller",
+      "sale"
+    ]
+  },
+  {
+    "id": 85,
+    "sku": "SKU-1085",
+    "product_name": "Smart Webcam",
+    "category": "Outdoor",
+    "price": 475.33,
+    "currency": "₹",
+    "stock": 21,
+    "rating": 5.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-08",
+    "tags": [
+      "bestseller",
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "id": 86,
+    "sku": "SKU-1086",
+    "product_name": "Foldable Headphones",
+    "category": "Outdoor",
+    "price": 199.48,
+    "currency": "USD",
+    "stock": 232,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-06-02",
+    "tags": [
+      "budget",
+      "popular"
+    ]
+  },
+  {
+    "id": 87,
+    "sku": "SKU-1087",
+    "product_name": "Ultra-Light Notebook",
+    "category": "Electronics",
+    "price": 474.58,
+    "currency": "USD",
+    "stock": 53,
+    "rating": 4.0,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-06-08",
+    "tags": [
+      "sale",
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "id": 88,
+    "sku": "SKU-1088",
+    "product_name": "Heavy-Duty Chair",
+    "category": "Home & Kitchen",
+    "price": 16.3,
+    "currency": "USD",
+    "stock": 115,
+    "rating": 4.2,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-02-14",
+    "tags": [
+      "sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 89,
+    "sku": "SKU-1089",
+    "product_name": "Ergonomic Desk Lamp",
+    "category": "Accessories",
+    "price": 49.52,
+    "currency": "USD",
+    "rating": 4.8,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-03-15",
+    "tags": [
+      "bestseller",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "id": 90,
+    "sku": "SKU-1090",
+    "product_name": "Heavy-Duty Headphones",
+    "category": "Home & Kitchen",
+    "price": 455.58,
+    "currency": "USD",
+    "stock": 211,
+    "rating": 2.7,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-01-30",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 91,
+    "sku": "SKU-1091",
+    "product_name": "Foldable Desk Lamp",
+    "category": "Outdoor",
+    "price": 461.78,
+    "currency": "USD",
+    "stock": 112,
+    "rating": 2.6,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-03-20",
+    "tags": [
+      "new",
+      "budget",
+      "popular"
+    ]
+  },
+  {
+    "id": 92,
+    "sku": " SKU-1021 ",
+    "product_name": "Modular Charger",
+    "category": "Electronics",
+    "price": 305.05,
+    "currency": "US Dollar",
+    "stock": 227,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-05-19",
+    "tags": [
+      "budget",
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "id": 93,
+    "sku": "SKU-1093",
+    "product_name": "wireless   mouse",
+    "category": "Electronics",
+    "price": 499.79,
+    "currency": "USD",
+    "stock": 172,
+    "rating": 4.5,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026/01/15",
+    "tags": "eco,popular"
+  },
+  {
+    "id": 94,
+    "sku": "SKU-1094",
+    "product_name": " wireless mouse",
+    "category": "Outdoor",
+    "price": 330.98,
+    "currency": "USD",
+    "stock": 234,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "N/A",
+    "created_date": "01/15/2026",
+    "tags": "sale"
+  },
+  {
+    "id": 95,
+    "sku": "SKU-1095",
+    "product_name": "Modular Desk Lamp",
+    "category": "Accessories",
+    "price": 176.65,
+    "currency": "$",
+    "stock": 171,
+    "rating": 2.6,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-01-24",
+    "tags": "eco,popular"
+  },
+  {
+    "id": 96,
+    "sku": "SKU-1096",
+    "product_name": "WIRELESS MOUSE",
+    "category": "Accessories",
+    "price": "unknown",
+    "currency": "USD",
+    "stock": 140,
+    "rating": 2.4,
+    "in_stock": false,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-07",
+    "tags": "sale,premium"
+  },
+  {
+    "id": 97,
+    "sku": "SKU-1097",
+    "product_name": "Solar Mouse",
+    "category": "Outdoor",
+    "price": 415.09,
+    "currency": "USD",
+    "stock": 0,
+    "rating": 4.1,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-30",
+    "tags": [
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "id": 98,
+    "sku": "SKU-1098",
+    "product_name": "Heavy-Duty Desk Lamp",
+    "category": "Outdoor",
+    "price": 381.87,
+    "currency": "USD",
+    "stock": 160,
+    "rating": 3.5,
+    "in_stock": false,
+    "supplier": "ABC Supplies ",
+    "created_date": "31/02/2026",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 99,
+    "sku": "SKU-1099",
+    "product_name": "Smart Desk Lamp",
+    "category": "Office",
+    "price": 227.49,
+    "currency": "USD",
+    "stock": 178,
+    "rating": 3.6,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-21",
+    "tags": [
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 100,
+    "sku": "SKU-1100",
+    "product_name": "Heavy-Duty Mouse",
+    "category": "Outdoor",
+    "price": "$299.99",
+    "currency": "USD",
+    "stock": "",
+    "rating": 5.0,
+    "in_stock": true,
+    "supplier": "abc supplies",
+    "created_date": "2026-03-21",
+    "tags": [
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "id": 101,
+    "sku": "SKU-1101",
+    "product_name": "Smart Charger",
+    "category": "Office",
+    "price": 261.8,
+    "currency": "USD",
+    "stock": 69,
+    "rating": 3.4,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-08-02",
+    "tags": [
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "id": 102,
+    "sku": "SKU-1102",
+    "product_name": "Smart Water Bottle",
+    "category": "ELECTRONICS",
+    "price": 462.11,
+    "currency": "USD ",
+    "stock": -10,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-05-22",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 103,
+    "sku": "SKU-1103",
+    "product_name": "Solar Desk Lamp",
+    "category": "Outdoor",
+    "price": 144.58,
+    "currency": "USD",
+    "stock": 0,
+    "rating": 3.1,
+    "in_stock": "false",
+    "supplier": "Global Goods",
+    "created_date": "2026-07-17",
+    "tags": [
+      "popular",
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "id": 104,
+    "sku": "SKU-1104",
+    "product_name": "WIRELESS MOUSE",
+    "category": "Outdoor",
+    "price": 0,
+    "currency": "USD",
+    "stock": 85,
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-08-10",
+    "tags": [
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 105,
+    "sku": "SKU-1105",
+    "product_name": " wireless mouse",
+    "category": "Home & Kitchen",
+    "price": 0,
+    "currency": "USD",
+    "stock": 59,
+    "rating": 4.6,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "15-01-2026",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 106,
+    "sku": "SKU-1106",
+    "product_name": "Modular Desk Lamp",
+    "category": "Accessories",
+    "price": 202.25,
+    "currency": "USD",
+    "stock": 169,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-07-10",
+    "tags": [
+      "sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 107,
+    "sku": "SKU-1107",
+    "product_name": "Foldable Desk Lamp",
+    "category": "Electronics",
+    "price": 438.98,
+    "currency": "USD",
+    "stock": null,
+    "rating": 2.6,
+    "in_stock": true,
+    "supplier": null,
+    "created_date": "2026-05-09",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 108,
+    "sku": "SKU-1108",
+    "product_name": "Solar Mouse",
+    "category": "Home & Kitchen",
+    "price": 51.29,
+    "currency": "USD",
+    "stock": 200,
+    "rating": 4.9,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-02-06",
+    "tags": [
+      "eco",
+      "new",
+      "sale"
+    ]
+  },
+  {
+    "id": 109,
+    "sku": "SKU-1109",
+    "product_name": "Compact Mouse",
+    "category": "Outdoor",
+    "price": 199.3,
+    "currency": "USD",
+    "stock": 81,
+    "rating": 4.0,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-08-07",
+    "tags": [
+      "sale",
+      "popular",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 110,
+    "sku": " SKU-1110 ",
+    "product_name": "Ergonomic Headphones",
+    "category": "Electronics",
+    "price": 225.48,
+    "currency": "USD",
+    "stock": 25,
+    "rating": 4.4,
+    "in_stock": 0,
+    "supplier": "abc supplies",
+    "created_date": "2026-03-02",
+    "tags": [
+      "premium",
+      "eco"
+    ]
+  },
+  {
+    "id": 111,
+    "sku": "SKU1111",
+    "product_name": "Portable Keyboard",
+    "category": "Office",
+    "price": 401.13,
+    "currency": "USD",
+    "stock": 75,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-03-18",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 112,
+    "sku": "SKU-1112",
+    "product_name": "Solar Notebook",
+    "category": "Home & Kitchen",
+    "price": "N/A",
+    "currency": "USD",
+    "stock": 20,
+    "rating": 3.9,
+    "in_stock": true,
+    "supplier": null,
+    "created_date": "01/15/2026",
+    "tags": [
+      "eco",
+      "premium",
+      "new"
+    ]
+  },
+  {
+    "id": 113,
+    "sku": "SKU-1113",
+    "product_name": "Foldable Keyboard",
+    "category": "Home & Kitchen",
+    "price": "",
+    "currency": "USD",
+    "stock": 65,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "31/02/2026",
+    "tags": [
+      "sale",
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 114,
+    "sku": "SKU-1114",
+    "product_name": "Smart Chair",
+    "category": "Accessories",
+    "price": 473.44,
+    "currency": "USD",
+    "stock": 150,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-05-20",
+    "tags": [
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 115,
+    "sku": "SKU1115",
+    "product_name": "Solar Mouse",
+    "category": "Accessories",
+    "price": 66.73,
+    "currency": "USD",
+    "stock": 97,
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-02-20",
+    "tags": [
+      "eco",
+      "budget"
+    ]
+  },
+  {
+    "id": 116,
+    "sku": "SKU-1116",
+    "product_name": "Solar Backpack",
+    "category": "Electronics",
+    "price": 289.48,
+    "currency": "USD",
+    "stock": 175,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "tags": [
+      "Sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 117,
+    "sku": "SKU-1117",
+    "product_name": "Portable Notebook",
+    "category": "Office",
+    "price": 121.22,
+    "currency": "USD",
+    "stock": 48,
+    "rating": 4.0,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-07-18",
+    "tags": [
+      "sale",
+      "eco",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 118,
+    "sku": "SKU-1118",
+    "product_name": "Modular Mouse",
+    "category": "Outdoor",
+    "price": 191.96,
+    "currency": "USD",
+    "stock": 33,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "2026-03-21",
+    "tags": [
+      "eco",
+      "new"
+    ]
+  },
+  {
+    "id": 119,
+    "sku": "SKU-1119",
+    "product_name": "Portable Keyboard",
+    "category": "Outdoor",
+    "price": 440.08,
+    "currency": "USD",
+    "stock": 93,
+    "rating": 3.7,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-02-14",
+    "tags": [
+      "budget"
+    ]
+  },
+  {
+    "id": 120,
+    "sku": "SKU-1120",
+    "product_name": null,
+    "category": "Office",
+    "price": 377.08,
+    "currency": "USD",
+    "stock": 86,
+    "rating": 4.5,
+    "in_stock": "False",
+    "supplier": "Prime Distributors",
+    "created_date": "2026-08-22",
+    "tags": [
+      "premium"
+    ]
+  },
+  {
+    "id": 121,
+    "sku": "SKU-1121",
+    "product_name": "",
+    "category": "Accessories",
+    "price": 484.13,
+    "currency": "USD",
+    "stock": "",
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-07-13",
+    "tags": [
+      "sale",
+      "budget"
+    ]
+  },
+  {
+    "id": 122,
+    "sku": "SKU-1041",
+    "product_name": "Wireless Charger",
+    "category": "Office",
+    "price": 341.32,
+    "currency": "$",
+    "stock": 172,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-05-18",
+    "tags": [
+      "budget",
+      "sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 123,
+    "sku": "SKU-1123",
+    "product_name": null,
+    "category": "Outdoor",
+    "price": 174.08,
+    "currency": "USD",
+    "stock": "120",
+    "rating": 2.9,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-01",
+    "tags": [
+      "bestseller",
+      "new",
+      "budget"
+    ]
+  },
+  {
+    "id": 124,
+    "sku": "SKU-1124",
+    "product_name": "Solar Chair",
+    "category": "Home & Kitchen",
+    "price": 36.99,
+    "currency": "USD",
+    "stock": 9,
+    "rating": 3.1,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-06-16",
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "id": 125,
+    "sku": "SKU-1125",
+    "product_name": "Heavy-Duty Keyboard",
+    "category": "Accessories",
+    "price": 235.02,
+    "currency": "USD",
+    "stock": 171,
+    "rating": 4.9,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-03-02",
+    "tags": [
+      "popular",
+      "eco"
+    ]
+  },
+  {
+    "id": 126,
+    "sku": "SKU-1126",
+    "product_name": "Smart Desk Lamp",
+    "category": "Accessories",
+    "price": 332.64,
+    "currency": "USD",
+    "stock": 213,
+    "rating": 3.6,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-07-06",
+    "tags": [
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "id": 127,
+    "sku": "SKU-1127",
+    "product_name": "Portable Charger",
+    "category": "Accessories",
+    "price": 476.02,
+    "currency": "USD",
+    "stock": 218,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-04-05",
+    "tags": [
+      "eco",
+      "budget",
+      "sale"
+    ]
+  },
+  {
+    "id": 128,
+    "sku": "SKU-1128",
+    "product_name": "Ergonomic Headphones",
+    "category": "Electronics",
+    "price": 475.27,
+    "currency": "USD",
+    "stock": 210,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-04-12",
+    "tags": [
+      "eco",
+      "popular",
+      "sale"
+    ]
+  },
+  {
+    "id": 129,
+    "sku": "SKU-1129",
+    "product_name": "Compact Headphones",
+    "category": "Home & Kitchen",
+    "price": 396.68,
+    "currency": "USD",
+    "stock": 52,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-13",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 130,
+    "sku": "SKU-1130",
+    "product_name": "Portable Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 397.49,
+    "currency": "USD",
+    "stock": 152,
+    "rating": 2.3,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-02-25",
+    "tags": [
+      "popular"
+    ]
+  },
+  {
+    "id": 131,
+    "sku": "SKU-1131",
+    "product_name": "Smart Chair",
+    "category": "Electronics",
+    "price": 78.92,
+    "currency": "USD",
+    "stock": 91,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-03-06",
+    "tags": [
+      "budget",
+      "sale",
+      "premium"
+    ]
+  },
+  {
+    "id": 132,
+    "sku": "SKU-1132",
+    "product_name": "Ultra-Light Keyboard",
+    "category": "Accessories",
+    "price": 270.15,
+    "currency": "$",
+    "stock": 190,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-03-09",
+    "tags": [
+      "popular",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 133,
+    "sku": "SKU-1133",
+    "product_name": "Modular Monitor Stand",
+    "category": "Home & Kitchen",
+    "price": 473.53,
+    "currency": "USD",
+    "stock": 11,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-28",
+    "tags": [
+      "new",
+      "eco"
+    ]
+  },
+  {
+    "id": 134,
+    "sku": "SKU-1134",
+    "product_name": "Ultra-Light Charger",
+    "category": "Accessories",
+    "price": 221.74,
+    "currency": "USD",
+    "stock": 27,
+    "rating": 3.6,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-01-08",
+    "tags": [
+      "sale"
+    ]
+  },
+  {
+    "id": 135,
+    "sku": "SKU-1135",
+    "product_name": "Foldable Keyboard",
+    "category": "HOME AND KITCHEN",
+    "price": 76.2,
+    "currency": "USD",
+    "stock": 159,
+    "rating": 4.0,
+    "in_stock": "NO",
+    "supplier": "OfficeHub",
+    "created_date": "2026/01/15",
+    "tags": [
+      "budget",
+      "new",
+      "popular"
+    ]
+  },
+  {
+    "id": 136,
+    "sku": "SKU-1136",
+    "product_name": "Wireless Mouse ",
+    "category": "Outdoor",
+    "price": "N/A",
+    "currency": "USD",
+    "stock": 25,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-05-16",
+    "tags": "sale"
+  },
+  {
+    "id": 137,
+    "sku": "SKU-1137",
+    "product_name": "Modular Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 215.7,
+    "currency": "USD",
+    "stock": 211,
+    "rating": 3.5,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-04-21",
+    "tags": [
+      "sale",
+      "budget",
+      "new"
+    ]
+  },
+  {
+    "id": 138,
+    "sku": "SKU-1138",
+    "product_name": "Ergonomic Desk Lamp",
+    "category": "Home & Kitchen",
+    "price": 348.11,
+    "currency": "USD",
+    "stock": 121,
+    "rating": 2.5,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-03-22",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": 139,
+    "sku": "SKU-1139",
+    "product_name": "Compact Webcam",
+    "category": "Home & Kitchen",
+    "price": -45.5,
+    "currency": "USD",
+    "stock": 150,
+    "rating": 4.9,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-01-25",
+    "tags": [
+      "eco",
+      "sale"
+    ]
+  },
+  {
+    "id": 140,
+    "sku": "SKU1140",
+    "product_name": "Compact Mouse",
+    "category": null,
+    "price": 0,
+    "currency": "usd",
+    "stock": 184,
+    "rating": 2.4,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "31/02/2026",
+    "tags": [
+      "budget",
+      "bestseller",
+      "sale"
+    ]
+  },
+  {
+    "id": 141,
+    "sku": "SKU-1141",
+    "product_name": "Heavy-Duty Headphones",
+    "category": "Home & Kitchen",
+    "price": 333.52,
+    "currency": "USD",
+    "stock": 57,
+    "rating": 4.6,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-05-28",
+    "tags": [
+      "budget",
+      "sale",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 142,
+    "sku": "SKU-1142",
+    "product_name": "Portable Webcam",
+    "category": "Accessories",
+    "price": 424.9,
+    "currency": "USD",
+    "stock": 249,
+    "rating": 4.4,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-05-27",
+    "tags": [
+      "eco",
+      "bestseller",
+      "popular"
+    ]
+  },
+  {
+    "id": 143,
+    "sku": "SKU-1143",
+    "product_name": "Foldable Desk Lamp",
+    "category": "Office",
+    "price": 29.04,
+    "currency": "USD",
+    "stock": 69,
+    "rating": 4.2,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-01-07",
+    "tags": [
+      "budget",
+      "sale"
+    ]
+  },
+  {
+    "id": 144,
+    "sku": "SKU-1144",
+    "product_name": "Smart Notebook",
+    "category": "Accessories",
+    "price": 48.75,
+    "currency": "USD",
+    "stock": 189,
+    "rating": 4.0,
+    "in_stock": true,
+    "supplier": "ABC Supplies",
+    "created_date": "2026-02-16",
+    "tags": [
+      "eco"
+    ]
+  },
+  {
+    "id": 145,
+    "sku": "SKU-1145",
+    "product_name": "Portable Water Bottle",
+    "category": "OFFICE",
+    "price": 235.02,
+    "currency": "USD",
+    "stock": 40,
+    "rating": 3.3,
+    "in_stock": "True",
+    "supplier": "Global Goods",
+    "created_date": "15/01/2026",
+    "tags": [
+      "popular",
+      "sale",
+      "eco"
+    ]
+  },
+  {
+    "id": 146,
+    "sku": "SKU-1146",
+    "product_name": "Smart Webcam",
+    "category": "Outdoor",
+    "price": "",
+    "currency": "USD",
+    "stock": "120 units",
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "Prime Distributors",
+    "created_date": "2026-02-09",
+    "tags": []
+  },
+  {
+    "id": 147,
+    "sku": "SKU-1147",
+    "product_name": "WIRELESS MOUSE",
+    "category": "Outdoor",
+    "price": 70.2,
+    "currency": "USD",
+    "stock": 110,
+    "rating": 2.6,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "unknown",
+    "tags": "sale,premium"
+  },
+  {
+    "id": 148,
+    "sku": "SKU-1148",
+    "product_name": "Ultra-Light Headphones",
+    "category": "Accessories",
+    "price": 492.46,
+    "currency": "USD",
+    "stock": 14,
+    "rating": 2.3,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-03-20",
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 149,
+    "sku": "SKU-1149",
+    "product_name": " wireless mouse",
+    "category": "Office",
+    "price": 73.19,
+    "currency": "USD",
+    "stock": 127,
+    "rating": 4.3,
+    "in_stock": true,
+    "supplier": "TechWorld Ltd",
+    "created_date": "2026-02-05",
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": 150,
+    "sku": "SKU-1150",
+    "product_name": "Portable Monitor Stand",
+    "category": "Outdoor",
+    "price": "199.99",
+    "currency": "USD",
+    "stock": 206,
+    "rating": 3.3,
+    "in_stock": true,
+    "supplier": "ABC Supplies ",
+    "created_date": "2026-13-40",
+    "tags": [
+      "sale",
+      "new",
+      "bestseller"
+    ]
+  },
+  {
+    "id": 13,
+    "sku": "SKU-1013",
+    "product_name": "Solar Notebook",
+    "category": "Electronics",
+    "price": 201.61,
+    "currency": "USD ",
+    "stock": 152,
+    "rating": 5.0,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-02-10",
+    "tags": [
+      "popular",
+      "sale"
+    ]
+  },
+  {
+    "id": 58,
+    "sku": "SKU-1058",
+    "product_name": "Smart Desk Lamp",
+    "category": "Accessories",
+    "price": 233.28,
+    "currency": "USD",
+    "stock": 192,
+    "rating": 3.0,
+    "in_stock": true,
+    "supplier": "Global Goods",
+    "created_date": "2026-04-25",
+    "tags": [
+      "new",
+      "eco",
+      "premium"
+    ]
+  },
+  {
+    "id": 104,
+    "sku": "SKU-1104",
+    "product_name": "WIRELESS MOUSE",
+    "category": "Outdoor",
+    "price": 0,
+    "currency": "USD",
+    "stock": 85,
+    "rating": 3.8,
+    "in_stock": true,
+    "supplier": "OfficeHub",
+    "created_date": "2026-08-10",
+    "tags": [
+      "new",
+      "budget"
+    ]
+  }
+]
