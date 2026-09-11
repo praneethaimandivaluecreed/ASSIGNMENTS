@@ -1,0 +1,1002 @@
+[
+  {
+    "student_id": 101,
+    "student_name": "Aarav Sharma",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 62,
+    "attendance": 73,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 102,
+    "student_name": "Priya Reddy",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 69,
+    "attendance": 76,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 103,
+    "student_name": "Rahul Kumar",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 76,
+    "attendance": 79,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 104,
+    "student_name": "Sneha Patel",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 83,
+    "attendance": 82,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 105,
+    "student_name": "  Vikram Singh ",
+    "age": 23,
+    "gender": "Male",
+    "course": " python ",
+    "marks": 90,
+    "attendance": 85,
+    "city": "delhi"
+  },
+  {
+    "student_id": 106,
+    "student_name": "Ananya Rao",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 97,
+    "attendance": 88,
+    "city": "Pune"
+  },
+  {
+    "student_id": 107,
+    "student_name": "Kiran Das",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 58,
+    "attendance": 91,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 108,
+    "student_name": "Meera Nair",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 65,
+    "attendance": 94,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 109,
+    "student_name": "Rohit Verma",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 72,
+    "attendance": 97,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 110,
+    "student_name": "Pooja Shah",
+    "age": 20,
+    "gender": "female",
+    "course": "computer science",
+    "marks": 79,
+    "attendance": 100,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 111,
+    "student_name": "Arjun Mehta",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 86,
+    "attendance": 72,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 112,
+    "student_name": "Isha Kapoor",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 93,
+    "attendance": 75,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 113,
+    "student_name": "Neha Joshi",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 100,
+    "attendance": 78,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 114,
+    "student_name": "Aditya Gupta",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 61,
+    "attendance": 81,
+    "city": "Pune"
+  },
+  {
+    "student_id": 115,
+    "student_name": "Sahil Khan",
+    "age": "22",
+    "gender": "M",
+    "course": "Python",
+    "marks": "78",
+    "attendance": 84,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 116,
+    "student_name": "Riya Sen",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 75,
+    "attendance": 87,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 117,
+    "student_name": "Manish Yadav",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 82,
+    "attendance": 90,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 118,
+    "student_name": "Tanya Roy",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 89,
+    "attendance": 93,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 119,
+    "student_name": "Dev Malhotra",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 96,
+    "attendance": 96,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 120,
+    "student_name": "Simran Kaur",
+    "age": null,
+    "gender": "F",
+    "course": "SQL",
+    "marks": null,
+    "attendance": 99,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 121,
+    "student_name": "Nikhil Jain",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 64,
+    "attendance": 71,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 122,
+    "student_name": "Kavya Iyer",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 71,
+    "attendance": 74,
+    "city": "Pune"
+  },
+  {
+    "student_id": 123,
+    "student_name": "Varun Bhat",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 78,
+    "attendance": 77,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 124,
+    "student_name": "Lakshmi Devi",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 85,
+    "attendance": 80,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 125,
+    "student_name": "Ramesh Naidu",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 105,
+    "attendance": 83,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 126,
+    "student_name": "Divya Menon",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 99,
+    "attendance": 86,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 127,
+    "student_name": "Karthik R",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 60,
+    "attendance": 89,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 128,
+    "student_name": "Aditi Rao",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 67,
+    "attendance": 92,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 129,
+    "student_name": "Suresh Babu",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 74,
+    "attendance": 95,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 130,
+    "student_name": "Nandini Rao",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 81,
+    "attendance": 102,
+    "city": "Pune"
+  },
+  {
+    "student_id": 131,
+    "student_name": "Akash Patel",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 88,
+    "attendance": 70,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 132,
+    "student_name": "Swathi Kumar",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 95,
+    "attendance": 73,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 133,
+    "student_name": "Harish Reddy",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 56,
+    "attendance": 76,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 134,
+    "student_name": "Maya Singh",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 63,
+    "attendance": 79,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 135,
+    "student_name": "Vivek Nair",
+    "age": "twenty",
+    "gender": "M",
+    "course": "Python",
+    "marks": 70,
+    "attendance": 82,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 136,
+    "student_name": "Sanjana Shah",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 77,
+    "attendance": 85,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 137,
+    "student_name": "Rohan Das",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 84,
+    "attendance": 88,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 138,
+    "student_name": "Pallavi Joshi",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 91,
+    "attendance": 91,
+    "city": "Pune"
+  },
+  {
+    "student_id": 139,
+    "student_name": "Abhishek Verma",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 98,
+    "attendance": 94,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 140,
+    "student_name": "Shreya Kapoor",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 59,
+    "attendance": "eighty",
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 141,
+    "student_name": "Manoj Gupta",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 66,
+    "attendance": 100,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 142,
+    "student_name": "Nisha Mehta",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 73,
+    "attendance": 72,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 143,
+    "student_name": "Tarun Khan",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 80,
+    "attendance": 75,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 144,
+    "student_name": "Pavani Sen",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 87,
+    "attendance": 78,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 145,
+    "student_name": "Gaurav Yadav",
+    "age": 23,
+    "gender": null,
+    "course": "Computer Science",
+    "marks": 94,
+    "attendance": 81,
+    "city": null
+  },
+  {
+    "student_id": 146,
+    "student_name": "Monika Roy",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 55,
+    "attendance": 84,
+    "city": "Pune"
+  },
+  {
+    "student_id": 147,
+    "student_name": "Aman Malhotra",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 62,
+    "attendance": 87,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 148,
+    "student_name": "Jatin Kaur",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 69,
+    "attendance": 90,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 149,
+    "student_name": "Deepak Jain",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 76,
+    "attendance": 93,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 150,
+    "student_name": "Anjali Iyer",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": -10,
+    "attendance": 96,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 151,
+    "student_name": "Aarav Sharma",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 90,
+    "attendance": 99,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 152,
+    "student_name": "Priya Reddy",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 97,
+    "attendance": 71,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 153,
+    "student_name": "Rahul Kumar",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 58,
+    "attendance": 74,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 154,
+    "student_name": "Sneha Patel",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 65,
+    "attendance": 77,
+    "city": "Pune"
+  },
+  {
+    "student_id": 155,
+    "student_name": " Riya Sen",
+    "age": 25,
+    "gender": "M",
+    "course": "SQL ",
+    "marks": 72,
+    "attendance": 80,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 156,
+    "student_name": "Ananya Rao",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 79,
+    "attendance": 83,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 157,
+    "student_name": "Kiran Das",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 86,
+    "attendance": 86,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 158,
+    "student_name": "Meera Nair",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 93,
+    "attendance": 89,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 159,
+    "student_name": "Rohit Verma",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 100,
+    "attendance": 92,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 160,
+    "student_name": "Pooja Shah",
+    "age": "21",
+    "gender": "F",
+    "course": "SQL",
+    "marks": 61,
+    "attendance": "91",
+    "city": "Delhi"
+  },
+  {
+    "student_id": 161,
+    "student_name": "Arjun Mehta",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 68,
+    "attendance": 98,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 162,
+    "student_name": "Isha Kapoor",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 75,
+    "attendance": 70,
+    "city": "Pune"
+  },
+  {
+    "student_id": 163,
+    "student_name": "Neha Joshi",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 82,
+    "attendance": 73,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 164,
+    "student_name": "Aditya Gupta",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 89,
+    "attendance": 76,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 165,
+    "student_name": "Sahil Khan",
+    "age": 19,
+    "gender": "Male",
+    "course": "data science",
+    "marks": 96,
+    "attendance": 79,
+    "city": "MUMBAI"
+  },
+  {
+    "student_id": 166,
+    "student_name": "Riya Sen",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 57,
+    "attendance": 82,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 167,
+    "student_name": "Manish Yadav",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 64,
+    "attendance": 85,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 168,
+    "student_name": "Tanya Roy",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 71,
+    "attendance": 88,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 169,
+    "student_name": "Dev Malhotra",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 78,
+    "attendance": 91,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 170,
+    "student_name": "Simran Kaur",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": null,
+    "attendance": null,
+    "city": "Pune"
+  },
+  {
+    "student_id": 171,
+    "student_name": "Nikhil Jain",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 92,
+    "attendance": 97,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 172,
+    "student_name": "Kavya Iyer",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 99,
+    "attendance": 100,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 173,
+    "student_name": "Varun Bhat",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 60,
+    "attendance": 72,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 174,
+    "student_name": "Lakshmi Devi",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 67,
+    "attendance": 75,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 175,
+    "student_name": "Anjali Iyer ",
+    "age": 21,
+    "gender": "F ",
+    "course": "Python",
+    "marks": 74,
+    "attendance": 78,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 176,
+    "student_name": "Divya Menon",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 81,
+    "attendance": 81,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 177,
+    "student_name": "Karthik R",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 88,
+    "attendance": 84,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 178,
+    "student_name": "Aditi Rao",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 95,
+    "attendance": 87,
+    "city": "Pune"
+  },
+  {
+    "student_id": 179,
+    "student_name": "Suresh Babu",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 56,
+    "attendance": 90,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 180,
+    "student_name": "Nandini Rao",
+    "age": "19",
+    "gender": "F",
+    "course": "SQL",
+    "marks": "84",
+    "attendance": 93,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 181,
+    "student_name": "Akash Patel",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 70,
+    "attendance": 96,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 182,
+    "student_name": "Swathi Kumar",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 77,
+    "attendance": 99,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 183,
+    "student_name": "Harish Reddy",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 84,
+    "attendance": 71,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 184,
+    "student_name": "Maya Singh",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 91,
+    "attendance": 74,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 185,
+    "student_name": "Vivek Nair",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 110,
+    "attendance": 77,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 186,
+    "student_name": "Sanjana Shah",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 59,
+    "attendance": 80,
+    "city": "Pune"
+  },
+  {
+    "student_id": 187,
+    "student_name": "Rohan Das",
+    "age": 25,
+    "gender": "M",
+    "course": "Python",
+    "marks": 66,
+    "attendance": 83,
+    "city": "Kolkata"
+  },
+  {
+    "student_id": 188,
+    "student_name": "Pallavi Joshi",
+    "age": 18,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 73,
+    "attendance": 86,
+    "city": "Jaipur"
+  },
+  {
+    "student_id": 189,
+    "student_name": "Abhishek Verma",
+    "age": 19,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 80,
+    "attendance": 89,
+    "city": "Hyderabad"
+  },
+  {
+    "student_id": 190,
+    "student_name": "Shreya Kapoor",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 87,
+    "attendance": -5,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 191,
+    "student_name": "Manoj Gupta",
+    "age": 21,
+    "gender": "M",
+    "course": "Python",
+    "marks": 94,
+    "attendance": 95,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 192,
+    "student_name": "Nisha Mehta",
+    "age": 22,
+    "gender": "F",
+    "course": "SQL",
+    "marks": 55,
+    "attendance": 98,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 193,
+    "student_name": "Tarun Khan",
+    "age": 23,
+    "gender": "Male",
+    "course": "Computer Science",
+    "marks": 62,
+    "attendance": 70,
+    "city": "Chennai"
+  },
+  {
+    "student_id": 194,
+    "student_name": "Pavani Sen",
+    "age": 24,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": 69,
+    "attendance": 73,
+    "city": "Pune"
+  },
+  {
+    "student_id": 195,
+    "student_name": "Gaurav Yadav",
+    "age": 25,
+    "gender": "M",
+    "course": " Python",
+    "marks": 76,
+    "attendance": 76,
+    "city": null
+  },
+  {
+    "student_id": 105,
+    "student_name": "  Vikram Singh ",
+    "age": 23,
+    "gender": "Male",
+    "course": " python ",
+    "marks": 90,
+    "attendance": 85,
+    "city": "delhi"
+  },
+  {
+    "student_id": 120,
+    "student_name": "Simran Kaur",
+    "age": null,
+    "gender": "F",
+    "course": "SQL",
+    "marks": null,
+    "attendance": 99,
+    "city": "Delhi"
+  },
+  {
+    "student_id": 150,
+    "student_name": "Anjali Iyer",
+    "age": 20,
+    "gender": "Female",
+    "course": "Data Science",
+    "marks": -10,
+    "attendance": 96,
+    "city": "Bengaluru"
+  },
+  {
+    "student_id": 175,
+    "student_name": "Anjali Iyer ",
+    "age": 21,
+    "gender": "F ",
+    "course": "Python",
+    "marks": 74,
+    "attendance": 78,
+    "city": "Mumbai"
+  },
+  {
+    "student_id": 195,
+    "student_name": "Gaurav Yadav",
+    "age": 25,
+    "gender": "M",
+    "course": " Python",
+    "marks": 76,
+    "attendance": 76,
+    "city": null
+  }
+]
