@@ -4,15 +4,26 @@ record = {
     "quantity": "2"
 }
 
-
-price = float(record["price"])
-quantity = int(record["quantity"])
+if record.get("product_id") is None:
+    raise ValueError("No product_id value")
+if record.get("price") is None:
+    raise ValueError("No price value")
+if record.get("quantity") is None:
+    raise ValueError("No quantity value")
+try:
+    price = float(record["price"])
+    quantity = int(record["quantity"])
+except ValueError as e:
+    print(e)
 
 total = price * quantity
+try:
 
-insert_into_database(
+    insert_into_database(
     record["product_id"],
     price,
     quantity,
     total
-)
+    )
+except ConnectionError as e:
+    print(e)
