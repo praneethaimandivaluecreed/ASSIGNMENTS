@@ -1,0 +1,5 @@
+2026-09-15 11:40:16 | root | Logger | INFO | Pipeline started
+2026-09-15 11:40:18 | root | Logger | INFO | Extraction completed
+2026-09-15 11:40:19 | root | Logger | INFO | Transformation completed
+2026-09-15 11:40:20 | root | Logger | INFO | Loading completed
+2026-09-15 11:40:20 | root | Logger | INFO | Pipeline finished

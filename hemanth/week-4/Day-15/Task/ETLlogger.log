@@ -1,0 +1,29 @@
+2026-09-15 14:57:15,963 | ETL | main | INFO | ETL pipeline started
+2026-09-15 14:57:15,963 | ETL | main | INFO | Extracting student records from messy_student_records.json
+2026-09-15 14:57:15,963 | ETL | extract | INFO | Extraction started: file=messy_student_records.json
+2026-09-15 14:57:15,964 | ETL | extract | INFO | Extraction completed : records=100
+2026-09-15 14:57:15,964 | ETL | main | INFO | Extraction completed: 100 records
+2026-09-15 14:57:15,964 | ETL | main | INFO | Transformation started
+2026-09-15 14:57:15,965 | ETL | main | INFO | Duplicate records found: 5
+2026-09-15 14:57:15,965 | ETL | transform | INFO | Transformation started: input_records=100
+2026-09-15 14:57:15,978 | ETL | transform | INFO | Step started: convert data types
+2026-09-15 14:57:15,981 | ETL | transform | INFO | Step started: handle missing values
+2026-09-15 14:57:15,982 | ETL | transform | INFO | Step started: remove duplicates
+2026-09-15 14:57:15,984 | ETL | transform | INFO | Duplicates handled : removed=5
+2026-09-15 14:57:15,984 | ETL | transform | INFO | Step started: standardize text
+2026-09-15 14:57:15,986 | ETL | transform | INFO | Step started: apply business rules
+2026-09-15 14:57:15,988 | ETL | transform | INFO | Transformation completed : output_records=95
+2026-09-15 14:57:15,988 | ETL | main | INFO | Transformation completed: 95 valid records
+2026-09-15 14:57:15,988 | ETL | load | INFO | Loading started: 95 records
+2026-09-15 14:57:16,020 | ETL | load | INFO | Database connection successful
+2026-09-15 14:57:16,021 | ETL | load | INFO | Students table checked/created
+2026-09-15 14:57:16,021 | ETL | load | INFO | Loading batch 1/5: 20 records
+2026-09-15 14:57:16,107 | ETL | load | INFO | Loading batch 2/5: 20 records
+2026-09-15 14:57:16,119 | ETL | load | INFO | Loading batch 3/5: 20 records
+2026-09-15 14:57:16,130 | ETL | load | INFO | Loading batch 4/5: 20 records
+2026-09-15 14:57:16,144 | ETL | load | INFO | Loading batch 5/5: 15 records
+2026-09-15 14:57:16,158 | ETL | load | INFO | Loading completed: 95 records
+2026-09-15 14:57:16,158 | ETL | load | INFO | Database connection closed
+2026-09-15 14:57:16,158 | ETL | main | INFO | Loading completed: 95 records
+2026-09-15 14:57:16,158 | ETL | main | INFO | ETL pipeline completed successfully
+2026-09-15 14:57:16,158 | ETL | main | INFO | ETL pipeline ended
