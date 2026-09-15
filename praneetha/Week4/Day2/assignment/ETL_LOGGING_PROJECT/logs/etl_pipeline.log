@@ -1,0 +1,79 @@
+2026-09-15 12:39:17,930 | INFO | pipeline_start | ETL pipeline started
+2026-09-15 12:39:17,931 | INFO | extraction_start | File: data/source/sales_data.csv
+2026-09-15 12:39:17,934 | INFO | extraction_complete | Records: 250 | Columns: 11
+2026-09-15 12:39:17,939 | INFO | raw_data_saved | File: data/raw/sales_data_raw.csv
+2026-09-15 12:39:17,940 | INFO | transformation_start | Records: 250
+2026-09-15 12:39:17,942 | INFO | duplicates_removed | Count: 5
+2026-09-15 12:39:17,964 | INFO | transformation_complete | Records: 245 | Columns: 14
+2026-09-15 12:39:17,964 | ERROR | pipeline_failed | ETL pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\VC_User6.DESKTOP-22FFUC4\Desktop\DATA ANALYTICS\ASSIGNMENTS\praneetha\week4\day2\assignment\ETL_LOGGING_PROJECT\src\pipeline.py", line 63, in run_pipeline
+    validate_data(df)
+    ^^^^^^^^^^^^^
+NameError: name 'validate_data' is not defined
+2026-09-15 12:39:37,111 | INFO | pipeline_start | ETL pipeline started
+2026-09-15 12:39:37,111 | INFO | extraction_start | File: data/source/sales_data.csv
+2026-09-15 12:39:37,113 | INFO | extraction_complete | Records: 250 | Columns: 11
+2026-09-15 12:39:37,116 | INFO | raw_data_saved | File: data/raw/sales_data_raw.csv
+2026-09-15 12:39:37,116 | INFO | transformation_start | Records: 250
+2026-09-15 12:39:37,118 | INFO | duplicates_removed | Count: 5
+2026-09-15 12:39:37,123 | INFO | transformation_complete | Records: 245 | Columns: 14
+2026-09-15 12:39:37,134 | INFO | processed_data_saved | File: data/processed/sales_data_processed.csv
+2026-09-15 12:39:37,135 | INFO | database_connection_start
+2026-09-15 12:39:37,654 | INFO | database_connection_success
+2026-09-15 12:39:37,654 | INFO | loading_start | Records: 245
+2026-09-15 12:39:37,736 | ERROR | loading_failed | Transaction rolled back
+Traceback (most recent call last):
+  File "C:\Users\VC_User6.DESKTOP-22FFUC4\Desktop\DATA ANALYTICS\ASSIGNMENTS\praneetha\week4\day2\assignment\ETL_LOGGING_PROJECT\src\load.py", line 70, in load_data
+    cursor.executemany(
+    ~~~~~~~~~~~~~~~~~~^
+        insert_query,
+        ^^^^^^^^^^^^^
+        values
+        ^^^^^^
+    )
+    ^
+pyodbc.DataError: ('22018', "[22018] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting the nvarchar value 'O10001' to data type int. (245) (SQLExecDirectW)")
+2026-09-15 12:39:37,737 | ERROR | pipeline_failed | ETL pipeline failed
+Traceback (most recent call last):
+  File "C:\Users\VC_User6.DESKTOP-22FFUC4\Desktop\DATA ANALYTICS\ASSIGNMENTS\praneetha\week4\day2\assignment\ETL_LOGGING_PROJECT\src\pipeline.py", line 92, in run_pipeline
+    load_data(
+    ~~~~~~~~~^
+        df,
+        ^^^
+        connection
+        ^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\VC_User6.DESKTOP-22FFUC4\Desktop\DATA ANALYTICS\ASSIGNMENTS\praneetha\week4\day2\assignment\ETL_LOGGING_PROJECT\src\load.py", line 70, in load_data
+    cursor.executemany(
+    ~~~~~~~~~~~~~~~~~~^
+        insert_query,
+        ^^^^^^^^^^^^^
+        values
+        ^^^^^^
+    )
+    ^
+pyodbc.DataError: ('22018', "[22018] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Conversion failed when converting the nvarchar value 'O10001' to data type int. (245) (SQLExecDirectW)")
+2026-09-15 12:39:37,738 | INFO | database_connection_closed
+2026-09-15 12:41:22,629 | INFO | pipeline_start | ETL pipeline started
+2026-09-15 12:41:22,629 | INFO | extraction_start | File: data/source/sales_data.csv
+2026-09-15 12:41:22,632 | INFO | extraction_complete | Records: 250 | Columns: 11
+2026-09-15 12:41:22,635 | INFO | raw_data_saved | File: data/raw/sales_data_raw.csv
+2026-09-15 12:41:22,635 | INFO | transformation_start | Records: 250
+2026-09-15 12:41:22,637 | INFO | duplicates_removed | Count: 5
+2026-09-15 12:41:22,644 | INFO | transformation_complete | Records: 245 | Columns: 14
+2026-09-15 12:41:22,654 | INFO | processed_data_saved | File: data/processed/sales_data_processed.csv
+2026-09-15 12:41:22,654 | INFO | database_connection_start
+2026-09-15 12:41:22,692 | INFO | database_connection_success
+2026-09-15 12:41:22,692 | INFO | loading_start | Records: 245
+2026-09-15 12:41:23,190 | INFO | batch_loaded | Records: 1-40
+2026-09-15 12:41:23,314 | INFO | batch_loaded | Records: 41-80
+2026-09-15 12:41:23,449 | INFO | batch_loaded | Records: 81-120
+2026-09-15 12:41:23,506 | INFO | batch_loaded | Records: 121-160
+2026-09-15 12:41:23,554 | INFO | batch_loaded | Records: 161-200
+2026-09-15 12:41:23,583 | INFO | batch_loaded | Records: 201-240
+2026-09-15 12:41:23,587 | INFO | batch_loaded | Records: 241-245
+2026-09-15 12:41:23,649 | INFO | loading_complete | Records loaded: 245
+2026-09-15 12:41:23,649 | INFO | pipeline_end | Pipeline completed successfully | Records: 245
+2026-09-15 12:41:23,650 | INFO | database_connection_closed

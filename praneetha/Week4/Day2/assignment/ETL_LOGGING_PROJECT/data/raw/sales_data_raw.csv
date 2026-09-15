@@ -1,0 +1,251 @@
+OrderID,CustomerID,CustomerName,Age,City,Product,Category,Quantity,Amount,OrderDate,PaymentMethod
+O10001,C129,Arjun,24,Vijayawada,Mouse,Electronics,1,44622.25,2026-03-04,Cash
+O10002,C165,Anjali,19,Nellore,Laptop,Electronics,1,6074.87,2026-03-01,Cash
+O10003,C101,Arjun,45,Rajahmundry,Monitor,Electronics,4,35561.31,2026-07-27,Debit Card
+O10004,C114,Priya,42,Vijayawada,Keyboard,Electronics,2,57454.18,2026-03-28,Debit Card
+O10005,C159,Pranav,25,Tirupati,Webcam,Electronics,5,16238.99,2026-01-12,UPI
+O10006,C147,Anjali,30,Vijayawada,Office Chair,Furniture,3,49849.58,2026-06-08,UPI
+O10007,C130,Priya,42,Kakinada,Monitor,Electronics,3,59120.68,2026-08-07,Cash
+O10008,C135,Priya,56,Guntur,Webcam,Electronics,2,22525.77,2026-02-23,Credit Card
+O10009,C172,Kavya,38,Hyderabad,Keyboard,Electronics,4,23077.6,2026-08-25,Credit Card
+O10010,C128,Anjali,38,Nellore,Laptop,Electronics,3,24369.3,2026-01-17,Cash
+O10011,C132,Pranav,52,Kakinada,Printer,Electronics,4,9000.86,2026-02-05,Cash
+O10012,C166,Vani,23,Hyderabad,Desk,Furniture,4,22038.79,2026-02-05,UPI
+O10013,C177,Priya,42,Tirupati,Keyboard,Electronics,2,47628.72,2026-04-19,Cash
+O10014,C102,Priya,52,Kakinada,Office Chair,Furniture,3,58279.16,2026-08-09,Debit Card
+O10015,C101,Sita,50,Guntur,Mouse,Electronics,3,26368.53,2026-04-27,UPI
+O10016,C148,,52,Hyderabad,Headphones,Electronics,5,36733.73,2026-02-09,Debit Card
+O10017,C140,Kavya,21,Nellore,Tablet,Electronics,1,7156.13,2026-04-03,UPI
+O10018,C169,Arjun,26,Visakhapatnam,Mouse,Electronics,4,49053.38,2026-09-08,Credit Card
+O10019,C128,Pranav,30,Kakinada,Headphones,Electronics,5,52409.77,2026-04-19,Cash
+O10020,C116,Kavya,32,Vijayawada,Webcam,Electronics,4,54027.04,2026-04-26,Debit Card
+O10021,C129,Rahul,22,Hyderabad,Laptop,Electronics,5,33458.33,2026-05-31,Credit Card
+O10022,C166,Kavya,35,Visakhapatnam,Mouse,Electronics,1,51648.31,2026-01-19,Credit Card
+O10023,C174,Anjali,48,Nellore,Office Chair,Furniture,2,43539.48,2026-08-14,Cash
+O10024,C156,Ravi,45,Tirupati,Printer,Electronics,2,6112.38,2026-06-18,Cash
+O10025,C144,Priya,33,Nellore,Laptop,Electronics,1,4106.45,2026-07-06,Credit Card
+O10026,C136,Vani,150,Vijayawada,Office Chair,Furniture,4,8840.85,2026-02-16,Cash
+O10027,C102,Priya,33,Guntur,Office Chair,Furniture,1,3510.01,2026-05-19,Cash
+O10028,C108,Arjun,42,Hyderabad,Tablet,Electronics,4,13217.96,2026-04-13,Cash
+O10029,C172,Vani,27,Nellore,Headphones,Electronics,4,17472.33,2026-06-28,Debit Card
+O10030,C108,Ravi,21,Hyderabad,Monitor,Electronics,1,34961.23,2026-05-19,Cash
+O10031,C166,Priya,29,Vijayawada,Office Chair,Furniture,5,9867.25,2026-09-03,UPI
+O10032,C173,Kavya,55,Hyderabad,Monitor,Electronics,4,7633.25,2026-08-16,UPI
+O10033,C134,Kavya,60,Rajahmundry,Printer,Electronics,5,34131.0,2026-03-22,Credit Card
+O10034,C139,Vani,38,Vijayawada,Headphones,Electronics,4,8287.26,2026-06-15,UPI
+O10035,C110,Pranav,31,Kakinada,Tablet,Electronics,5,59908.04,2026-01-26,Credit Card
+O10036,C137,Arjun,46,,Webcam,Electronics,1,52816.58,2026-04-05,UPI
+O10037,C118,Sita,25,Vijayawada,Office Chair,Furniture,3,55939.48,2026-01-27,Credit Card
+O10038,C144,Kavya,58,Kakinada,Headphones,Electronics,3,36487.37,2026-07-03,Cash
+O10039,C136,Rahul,18,Rajahmundry,Headphones,Electronics,1,5991.76,2026-04-19,Credit Card
+O10040,C155,Pranav,18,Vijayawada,Headphones,Electronics,2,44603.24,2026-05-22,UPI
+O10041,C175,Pranav,27,Tirupati,Keyboard,Electronics,5,2643.67,2026-04-05,Credit Card
+O10042,C106,Ravi,31,Nellore,Laptop,Electronics,3,22196.77,2026-08-27,UPI
+O10043,C180,Arjun,33,Guntur,Webcam,Electronics,5,53106.01,2026-04-15,Credit Card
+O10044,C143,Neha,60,Nellore,Printer,Electronics,1,11171.96,2026-08-25,Debit Card
+O10045,C161,Kavya,30,Visakhapatnam,Keyboard,Electronics,1,23261.23,2026-01-10,Debit Card
+O10046,C125,Neha,39,Kakinada,,Electronics,2,13763.95,2026-06-18,UPI
+O10047,C169,Ravi,19,Vijayawada,Headphones,Electronics,3,38668.16,2026-04-13,Debit Card
+O10048,C105,Priya,56,Tirupati,Keyboard,Electronics,5,57770.79,2026-03-09,Debit Card
+O10049,C115,Neha,54,Nellore,Webcam,Electronics,4,36569.43,2026-05-11,Debit Card
+O10050,C169,Kavya,41,Tirupati,Laptop,Electronics,4,600.63,2026-08-25,UPI
+O10011,C116,Sita,50,Kakinada,Webcam,Electronics,5,19177.98,2026-08-06,Cash
+O10052,C117,Kavya,44,Tirupati,Webcam,Electronics,4,41983.9,2026-05-22,Credit Card
+O10053,C101,Sita,36,Nellore,Desk,Furniture,5,18406.52,2026-05-21,Cash
+O10054,C157,Vani,31,Visakhapatnam,Desk,Furniture,5,39454.98,2026-04-30,Credit Card
+O10055,C180,Ravi,23,Nellore,Mouse,Electronics,3,31169.39,2026-06-12,Debit Card
+O10056,C132,Vani,57,Vijayawada,Monitor,Electronics,0,9267.56,2026-01-12,Cash
+O10057,C150,Vani,43,Nellore,Printer,Electronics,5,12068.9,2026-06-28,Credit Card
+O10058,C123,Pranav,47,Hyderabad,Laptop,Electronics,1,46816.01,2026-02-26,Credit Card
+O10059,C168,Pranav,56,Rajahmundry,Mouse,Electronics,4,8433.68,2026-04-29,Cash
+O10060,C171,Vani,28,Visakhapatnam,Desk,Furniture,5,25891.08,2026-08-21,Cash
+O10061,C167,Vani,58,Nellore,Headphones,Electronics,2,50471.84,2026-03-12,Debit Card
+O10062,C135,Ravi,38,Vijayawada,Tablet,Electronics,1,42955.92,2026-03-02,Credit Card
+O10063,C128,Priya,44,Tirupati,Keyboard,Electronics,2,23290.6,2026-02-09,Debit Card
+O10064,C154,Neha,55,Hyderabad,Office Chair,Furniture,4,25238.57,2026-02-22,Cash
+O10065,C150,Neha,52,Nellore,Tablet,Electronics,1,56593.13,2026-03-18,Cash
+O10066,C150,Ravi,60,Tirupati,Monitor,Electronics,3,-500.0,2026-01-08,Credit Card
+O10067,C104,Neha,55,Hyderabad,Tablet,Electronics,2,58852.96,2026-05-17,UPI
+O10068,C107,Sita,42,Rajahmundry,Printer,Electronics,2,52077.66,2026-02-16,Credit Card
+O10069,C149,Sita,44,Kakinada,Tablet,Electronics,3,20581.28,2026-08-14,UPI
+O10070,C145,Kavya,59,Vijayawada,Tablet,Electronics,1,45066.94,2026-01-14,UPI
+O10071,C180,Arjun,33,Guntur,Laptop,Electronics,2,12361.96,2026-01-06,
+O10072,C133,Ravi,28,Vijayawada,Mouse,Electronics,5,56891.54,2026-04-30,Credit Card
+O10073,C140,Anjali,42,Tirupati,Headphones,Electronics,1,34931.74,2026-08-26,Credit Card
+O10074,C132,Priya,37,Vijayawada,Mouse,Electronics,5,41591.56,2026-06-10,UPI
+O10075,C109,Pranav,59,Rajahmundry,Webcam,Electronics,5,25988.49,2026-04-05,UPI
+O10076,C147,,27,Tirupati,Printer,Electronics,4,6779.56,2026-09-03,Credit Card
+O10077,C169,Vani,47,Tirupati,Office Chair,Furniture,3,37146.79,2026-08-24,Debit Card
+O10078,C136,Vani,33,Visakhapatnam,Webcam,Electronics,2,49928.5,2026-01-23,Cash
+O10079,C124,Vani,31,Rajahmundry,Webcam,Electronics,1,29911.24,2026-03-25,Debit Card
+O10080,C136,Pranav,18,Nellore,Webcam,Electronics,3,52879.04,2026-06-29,UPI
+O10081,C131,Vani,5,Visakhapatnam,Monitor,Electronics,4,29570.38,2026-07-14,Cash
+O10082,C132,Sita,60,Rajahmundry,Laptop,Electronics,1,18007.02,2026-04-14,Cash
+O10083,C171,Ravi,40,Visakhapatnam,Office Chair,Furniture,5,20953.56,2026-07-10,Debit Card
+O10084,C125,Ravi,25,Guntur,Headphones,Electronics,3,14217.01,2026-07-04,Credit Card
+O10085,C168,Anjali,36,Vijayawada,Monitor,Electronics,4,16951.73,2026-05-31,Credit Card
+O10086,C102,Pranav,26,Kakinada,Headphones,Electronics,2,21972.42,2026-03-19,UPI
+O10087,C117,Vani,24,Hyderabad,Laptop,Electronics,5,17882.13,2026-08-30,Debit Card
+O10088,C107,Sita,48,Vijayawada,Tablet,Electronics,4,26707.89,2026-02-17,UPI
+O10089,C107,Arjun,27,Kakinada,Printer,Electronics,4,4907.89,2026-06-11,UPI
+O10090,C178,Anjali,57,Nellore,Monitor,Electronics,1,33705.35,2026-04-17,Cash
+O10091,C155,Sita,54,,Tablet,Electronics,4,18192.51,2026-05-31,UPI
+O10092,C121,Kavya,29,Vijayawada,Monitor,Electronics,2,16246.44,2026-01-21,Credit Card
+O10093,C161,Sita,20,Nellore,Laptop,Electronics,4,27304.97,2026-06-02,Debit Card
+O10094,C134,Anjali,60,Nellore,Headphones,Electronics,4,4735.2,2026-03-01,Cash
+O10095,C135,Arjun,22,Hyderabad,Mouse,Electronics,5,13876.16,2026-02-08,Credit Card
+O10096,C137,Vani,25,Visakhapatnam,Headphones,Electronics,5,45062.98,2026-05-26,Debit Card
+O10097,C157,Priya,56,Hyderabad,Printer,Electronics,3,30278.09,2026-05-07,Cash
+O10098,C130,Anjali,55,Hyderabad,Webcam,Electronics,5,15396.89,2026-01-24,Debit Card
+O10099,C161,Pranav,59,Visakhapatnam,Desk,Furniture,1,45904.99,2026-02-14,Debit Card
+O10100,C163,Priya,48,Rajahmundry,Keyboard,Electronics,5,26435.16,2026-07-28,Cash
+O10021,C121,Ravi,44,Visakhapatnam,Webcam,Electronics,3,40372.94,2026-08-08,Debit Card
+O10102,C141,Sita,38,Vijayawada,Printer,Electronics,5,2683.48,2026-01-23,Cash
+O10103,C160,Neha,21,Nellore,Office Chair,Furniture,1,39630.79,2026-05-19,Debit Card
+O10104,C107,Kavya,35,Guntur,Desk,Furniture,4,37711.82,2026-07-14,Debit Card
+O10105,C178,Kavya,28,Kakinada,Tablet,Electronics,4,7724.85,2026-09-07,UPI
+O10106,C115,Vani,25,Guntur,Office Chair,Furniture,4,6045.95,2026-08-04,Cash
+O10107,C162,Vani,33,Visakhapatnam,Headphones,Electronics,5,42471.99,2026-04-17,Credit Card
+O10108,C118,Priya,35,Tirupati,Printer,Electronics,2,55351.15,2026-05-11,Debit Card
+O10109,C139,Anjali,55,Visakhapatnam,Office Chair,Furniture,3,49322.69,2026-03-14,Credit Card
+O10110,C171,Pranav,42,Visakhapatnam,Tablet,Electronics,5,29318.31,2026-03-27,Debit Card
+O10111,C153,Rahul,38,Visakhapatnam,Monitor,Electronics,2,34521.96,2026-03-01,Cash
+O10112,C117,Pranav,55,Rajahmundry,Printer,Electronics,2,29972.05,2026-01-10,UPI
+O10113,C102,Arjun,44,Guntur,Tablet,Electronics,1,31794.09,2026-04-27,UPI
+O10114,C151,Priya,39,Tirupati,Tablet,Electronics,3,20644.39,2026-06-27,Debit Card
+O10115,C131,Sita,32,Vijayawada,Tablet,Electronics,5,2636.0,2026-01-18,Cash
+O10116,C139,Rahul,20,Rajahmundry,,Electronics,1,26898.87,2026-06-27,UPI
+O10117,C132,Pranav,44,Guntur,Headphones,Electronics,3,22803.04,2026-02-07,Credit Card
+O10118,C180,Kavya,49,Guntur,Keyboard,Electronics,1,36764.76,2026-04-08,Credit Card
+O10119,C102,Vani,36,Guntur,Tablet,Electronics,3,27844.44,2026-06-20,UPI
+O10120,C155,Sita,47,Kakinada,Tablet,Electronics,3,59265.28,2026-03-18,Credit Card
+O10121,C174,Ravi,54,Kakinada,Printer,Electronics,4,6845.87,2026-04-08,Debit Card
+O10122,C107,Anjali,49,Kakinada,Laptop,Electronics,4,16831.58,2026-05-25,Credit Card
+O10123,C180,Sita,60,Guntur,Desk,Furniture,3,13530.77,2026-02-18,UPI
+O10124,C175,Ravi,26,Vijayawada,Laptop,Electronics,3,47422.32,2026-01-09,Debit Card
+O10125,C170,Ravi,51,Kakinada,Webcam,Electronics,4,10950.58,2026-02-03,Credit Card
+O10126,C144,,47,Vijayawada,Headphones,Electronics,4,58059.35,2026-03-17,Credit Card
+O10127,C172,Ravi,23,Tirupati,Monitor,Electronics,4,58052.55,2026-07-25,UPI
+O10128,C134,Anjali,42,Rajahmundry,Headphones,Electronics,5,7853.53,2026-04-05,UPI
+O10129,C172,Ravi,57,Nellore,Monitor,Electronics,4,1988.97,2026-08-15,UPI
+O10130,C118,Rahul,20,Kakinada,Tablet,Electronics,3,39129.75,2026-01-30,Cash
+O10131,C118,Neha,200,Rajahmundry,Mouse,Electronics,1,14470.6,2026-05-18,Cash
+O10132,C113,Vani,57,Tirupati,Desk,Furniture,2,53182.12,2026-06-17,Debit Card
+O10133,C131,Ravi,24,Rajahmundry,Laptop,Electronics,3,13427.55,2026-04-24,Debit Card
+O10134,C116,Vani,23,Nellore,Laptop,Electronics,4,16914.95,2026-09-05,UPI
+O10135,C173,Kavya,22,Nellore,Laptop,Electronics,3,14992.35,2026-02-02,Credit Card
+O10136,C177,Rahul,35,Guntur,Monitor,Electronics,-2,46574.93,2026-07-21,Credit Card
+O10137,C104,Arjun,18,Rajahmundry,Office Chair,Furniture,3,48011.57,2026-01-29,Credit Card
+O10138,C107,Arjun,44,Vijayawada,Desk,Furniture,3,1438.97,2026-03-09,UPI
+O10139,C176,Priya,46,Nellore,Tablet,Electronics,4,46792.01,2026-05-12,UPI
+O10140,C104,Rahul,48,Tirupati,Office Chair,Furniture,3,27753.53,2026-09-04,Cash
+O10141,C110,Priya,38,Guntur,Mouse,Electronics,4,42887.88,2026-04-24,UPI
+O10142,C171,Ravi,42,Kakinada,Keyboard,Electronics,3,37646.89,2026-05-30,Cash
+O10143,C115,Pranav,31,Tirupati,Office Chair,Furniture,5,26096.86,2026-07-23,Cash
+O10144,C152,Neha,24,Rajahmundry,Monitor,Electronics,4,20666.43,2026-04-27,Cash
+O10145,C161,Priya,23,Vijayawada,Webcam,Electronics,3,22770.91,2026-02-09,UPI
+O10146,C117,Pranav,21,,Printer,Electronics,1,44803.04,2026-04-06,UPI
+O10147,C155,Rahul,36,Kakinada,Printer,Electronics,3,52479.64,2026-08-29,Debit Card
+O10148,C162,Kavya,24,Rajahmundry,Mouse,Electronics,5,30691.05,2026-02-09,Debit Card
+O10149,C155,Pranav,57,Hyderabad,Mouse,Electronics,3,34658.95,2026-07-26,Debit Card
+O10150,C140,Ravi,40,Hyderabad,Laptop,Electronics,2,16759.59,2026-07-15,Credit Card
+O10031,C119,Rahul,23,Nellore,Keyboard,Electronics,5,39612.01,2026-01-18,Cash
+O10152,C140,Ravi,54,Vijayawada,Printer,Electronics,4,20783.31,2026-04-05,UPI
+O10153,C111,Sita,46,Tirupati,Keyboard,Electronics,2,45388.93,2026-01-13,Cash
+O10154,C166,Priya,40,Tirupati,Desk,Furniture,4,25143.93,2026-02-25,UPI
+O10155,C140,Rahul,32,Tirupati,Headphones,Electronics,5,29454.65,2026-06-20,UPI
+O10156,C118,Sita,36,Rajahmundry,Laptop,Electronics,2,-1000.0,2026-02-24,UPI
+O10157,C117,Neha,52,Nellore,Laptop,Electronics,4,44947.34,2026-02-14,Debit Card
+O10158,C156,Rahul,47,Vijayawada,Mouse,Electronics,4,51774.98,2026-01-11,Debit Card
+O10159,C154,Sita,25,Tirupati,Desk,Furniture,4,34617.28,2026-07-01,UPI
+O10160,C159,Ravi,23,Tirupati,Webcam,Electronics,2,48178.67,2026-06-08,UPI
+O10161,C111,Neha,37,Rajahmundry,Monitor,Electronics,4,35537.84,2026-05-15,
+O10162,C115,Pranav,50,Nellore,Webcam,Electronics,2,5044.57,2026-06-12,Debit Card
+O10163,C133,Kavya,29,Guntur,Webcam,Electronics,2,14558.0,2026-02-07,UPI
+O10164,C175,Vani,54,Rajahmundry,Keyboard,Electronics,4,28105.21,2026-05-25,Debit Card
+O10165,C139,Sita,55,Hyderabad,Keyboard,Electronics,4,4563.03,2026-04-24,Debit Card
+O10166,C105,Rahul,41,Kakinada,,Furniture,1,18969.27,2026-04-26,UPI
+O10167,C160,Anjali,53,Hyderabad,Mouse,Electronics,5,35847.75,2026-04-09,Cash
+O10168,C165,Arjun,21,Visakhapatnam,Desk,Furniture,2,19630.84,2026-05-02,UPI
+O10169,C106,Kavya,46,Visakhapatnam,Webcam,Electronics,1,30520.67,2026-02-14,Credit Card
+O10170,C153,Ravi,56,Hyderabad,Webcam,Electronics,3,55117.24,2026-04-10,Debit Card
+O10171,C150,Sita,34,Guntur,Mouse,Electronics,3,6123.1,2026-06-23,Debit Card
+O10172,C145,Sita,59,Tirupati,Mouse,Electronics,5,39984.92,2026-08-23,Credit Card
+O10173,C143,Arjun,60,Vijayawada,Desk,Furniture,1,18920.12,2026-04-07,Cash
+O10174,C124,Kavya,39,Visakhapatnam,Office Chair,Furniture,3,1584.72,2026-03-21,Credit Card
+O10175,C113,Pranav,52,Hyderabad,Monitor,Electronics,2,9719.24,2026-03-17,Debit Card
+O10176,C121,,57,Guntur,Desk,Furniture,2,36036.16,2026-02-09,Cash
+O10177,C131,Vani,57,Kakinada,Laptop,Electronics,4,22175.82,2026-07-04,Cash
+O10178,C161,Kavya,41,Visakhapatnam,Monitor,Electronics,5,14730.53,2026-09-05,Cash
+O10179,C121,Kavya,56,Guntur,Headphones,Electronics,4,30422.95,2026-04-18,Debit Card
+O10180,C114,Pranav,25,Kakinada,Laptop,Electronics,4,52509.96,2026-05-22,UPI
+O10181,C119,Neha,23,Nellore,Keyboard,Electronics,3,27234.49,2026-05-12,Cash
+O10182,C165,Ravi,33,Tirupati,Webcam,Electronics,1,25186.37,2026-04-12,UPI
+O10183,C113,Ravi,27,Guntur,Webcam,Electronics,2,2177.16,2026-08-27,UPI
+O10184,C161,Vani,57,Hyderabad,Headphones,Electronics,4,41916.28,2026-02-05,UPI
+O10185,C171,Anjali,51,Tirupati,Laptop,Electronics,3,13331.46,2026-02-08,UPI
+O10186,C131,Neha,58,Visakhapatnam,Headphones,Electronics,2,18418.5,2026-01-13,UPI
+O10187,C166,Anjali,33,Guntur,Mouse,Electronics,4,36005.97,2026-01-05,Debit Card
+O10188,C174,Neha,29,Vijayawada,Printer,Electronics,1,37081.17,2026-03-03,Debit Card
+O10189,C165,Pranav,19,Tirupati,Mouse,Electronics,5,32872.88,2026-07-21,Cash
+O10190,C103,Ravi,22,Rajahmundry,Laptop,Electronics,4,58871.85,2026-03-06,Credit Card
+O10191,C118,Rahul,-10,Rajahmundry,Mouse,Electronics,5,44243.63,2026-03-27,Credit Card
+O10192,C118,Priya,47,Hyderabad,Tablet,Electronics,4,38088.28,2026-07-27,Debit Card
+O10193,C106,Ravi,37,Tirupati,Monitor,Electronics,1,47571.0,2026-08-15,Cash
+O10194,C137,Ravi,21,Rajahmundry,Headphones,Electronics,1,45320.81,2026-02-18,Debit Card
+O10195,C157,Neha,39,Guntur,Mouse,Electronics,3,26498.61,2026-04-13,Cash
+O10196,C135,Priya,45,Vijayawada,Tablet,Electronics,3,55496.47,2026-05-13,Cash
+O10197,C114,Priya,38,Kakinada,Desk,Furniture,2,32955.73,2026-03-24,Debit Card
+O10198,C157,Ravi,46,Hyderabad,Tablet,Electronics,5,43200.94,2026-02-12,Debit Card
+O10199,C108,Priya,60,Tirupati,Desk,Furniture,4,16836.04,2026-09-08,Debit Card
+O10200,C178,Vani,20,Guntur,Office Chair,Furniture,2,57190.97,2026-02-06,UPI
+O10041,C173,Rahul,56,Guntur,Monitor,Electronics,3,22047.96,2026-09-01,Cash
+O10202,C174,Arjun,51,Rajahmundry,Webcam,Electronics,3,26914.39,2026-01-20,Cash
+O10203,C104,Arjun,49,Tirupati,Webcam,Electronics,3,15351.89,2026-01-30,UPI
+O10204,C179,Sita,49,Nellore,Headphones,Electronics,3,42390.25,2026-02-24,UPI
+O10205,C157,Priya,38,Rajahmundry,Keyboard,Electronics,1,27396.54,2026-08-19,UPI
+O10206,C121,Arjun,41,Nellore,Office Chair,Furniture,0,17776.56,2026-03-18,UPI
+O10207,C104,Ravi,53,Rajahmundry,Monitor,Electronics,2,14585.8,2026-05-07,Cash
+O10208,C109,Sita,43,Visakhapatnam,Office Chair,Furniture,2,36910.93,2026-01-23,Cash
+O10209,C141,Priya,46,Visakhapatnam,Printer,Electronics,5,4888.17,2026-09-06,Debit Card
+O10210,C117,Neha,50,Hyderabad,Keyboard,Electronics,5,38567.74,2026-02-16,UPI
+O10211,C142,Kavya,40,,Office Chair,Furniture,2,18595.41,2026-02-11,UPI
+O10212,C136,Arjun,58,Kakinada,Headphones,Electronics,2,38285.9,2026-05-22,UPI
+O10213,C120,Arjun,60,Rajahmundry,Office Chair,Furniture,2,35712.6,2026-05-29,UPI
+O10214,C174,Sita,59,Nellore,Laptop,Electronics,1,3204.98,2026-06-14,Cash
+O10215,C170,Sita,59,Kakinada,Desk,Furniture,1,30133.26,2026-06-10,Cash
+O10216,C108,Arjun,46,Tirupati,Monitor,Electronics,4,18197.32,2026-01-19,Cash
+O10217,C141,Ravi,40,Tirupati,Tablet,Electronics,2,20741.46,2026-02-06,Credit Card
+O10218,C131,Vani,25,Kakinada,Webcam,Electronics,5,33918.25,2026-03-23,Cash
+O10219,C150,Anjali,44,Nellore,Monitor,Electronics,2,6260.29,2026-03-16,Credit Card
+O10220,C121,Vani,50,Visakhapatnam,Webcam,Electronics,5,43407.14,2026-02-18,Cash
+O10061,C151,Pranav,47,Nellore,Headphones,Electronics,4,1878.99,2026-08-30,Credit Card
+O10222,C164,Anjali,59,Visakhapatnam,Desk,Furniture,3,3395.16,2026-03-14,Debit Card
+O10223,C118,Sita,41,Tirupati,Office Chair,Furniture,1,50906.76,2026-04-21,Debit Card
+O10224,C125,Ravi,53,Kakinada,Laptop,Electronics,4,3543.88,2026-05-24,UPI
+O10225,C136,Anjali,57,Vijayawada,Printer,Electronics,5,27296.09,2026-05-21,Credit Card
+O10226,C172,Ravi,27,Nellore,Mouse,Electronics,4,-2500.0,2026-03-28,Cash
+O10227,C143,Vani,51,Visakhapatnam,Office Chair,Furniture,1,3195.55,2026-02-05,Credit Card
+O10228,C179,Ravi,28,Tirupati,Desk,Furniture,5,8816.97,2026-08-27,Debit Card
+O10229,C169,Vani,54,Kakinada,Desk,Furniture,3,30685.24,2026-05-11,Cash
+O10230,C154,Anjali,37,Hyderabad,Laptop,Electronics,3,20208.76,2026-01-29,Cash
+O10231,C107,Anjali,48,Guntur,Headphones,Electronics,5,34869.25,2026-07-04,Cash
+O10232,C115,Kavya,19,Visakhapatnam,Keyboard,Electronics,2,2378.45,2026-08-31,Debit Card
+O10233,C153,Pranav,57,Visakhapatnam,Printer,Electronics,2,25071.13,2026-02-22,UPI
+O10234,C162,Pranav,42,Rajahmundry,Keyboard,Electronics,5,12836.83,2026-03-25,Credit Card
+O10235,C134,Anjali,48,Nellore,Tablet,Electronics,5,20868.46,2026-04-01,Credit Card
+O10236,C139,Sita,31,Visakhapatnam,Headphones,Electronics,5,18260.7,2026-08-30,Debit Card
+O10237,C136,Sita,25,Tirupati,Tablet,Electronics,3,33849.01,2026-08-28,Cash
+O10238,C111,Ravi,46,Kakinada,Webcam,Electronics,2,17781.93,2026-03-15,Cash
+O10239,C172,Sita,26,Vijayawada,Monitor,Electronics,2,49763.13,2026-03-11,Credit Card
+O10240,C129,Kavya,21,Vijayawada,Monitor,Electronics,1,40355.12,2026-05-16,Cash
+O10241,C118,Rahul,53,Guntur,Webcam,Electronics,4,6482.42,2026-07-17,Cash
+O10242,C137,Ravi,36,Hyderabad,Tablet,Electronics,4,39207.05,2026-07-13,UPI
+O10243,C105,Arjun,44,Guntur,Desk,Furniture,2,32341.56,2026-07-05,UPI
+O10244,C138,Rahul,18,Kakinada,Printer,Electronics,4,11585.54,2026-07-11,UPI
+O10245,C170,Pranav,49,Guntur,Webcam,Electronics,3,27533.77,2026-06-14,Cash
+O10246,C121,Vani,59,Kakinada,Headphones,Electronics,2,48624.43,2026-03-26,Credit Card
+O10247,C125,Arjun,57,Tirupati,Laptop,Electronics,3,47550.68,2026-05-26,Cash
+O10248,C113,Arjun,26,Visakhapatnam,Office Chair,Furniture,3,5660.9,2026-06-21,Debit Card
+O10249,C158,Sita,39,Kakinada,Monitor,Electronics,1,16016.72,2026-03-02,UPI
+O10250,C116,Vani,37,Guntur,Headphones,Electronics,3,41719.73,2026-01-16,Cash
