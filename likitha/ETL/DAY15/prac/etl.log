@@ -1,0 +1,8 @@
+2026-09-15 16:07:55,737 | INFO | ETL PIPELINE STARTED
+2026-09-15 16:07:55,737 | INFO | Starting extraction
+2026-09-15 16:07:55,738 | INFO | Extracted 3 records
+2026-09-15 16:07:55,738 | INFO | Starting transformation
+2026-09-15 16:07:55,738 | INFO | Transformation completed
+2026-09-15 16:07:55,738 | INFO | Starting loading
+2026-09-15 16:07:55,739 | INFO | Loaded 3 records into CSV
+2026-09-15 16:07:55,740 | INFO | ETL PIPELINE COMPLETED
