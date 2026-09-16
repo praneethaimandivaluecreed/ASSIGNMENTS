@@ -1,0 +1,2 @@
+student_id,student_name,age,gender,course,marks,attendance,city,validation_reason
+145,Gaurav Yadav,23.0,unknown,Computer Science,94.0,81.0,Unknown,Invalid gender; 
