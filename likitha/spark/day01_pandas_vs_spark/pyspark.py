@@ -3,7 +3,7 @@ from pyspark.sql.functions import avg
 
 
 
-# 1. Create SparkSession
+#  Create SparkSession
 
 spark = (
     SparkSession.builder
@@ -16,7 +16,7 @@ df.show()
 
 
 
-# 4. Filter employees
+#  Filter employees
 # Salary greater than 60,000
 
 high_salary = df.filter(df.salary > 60000)
@@ -26,7 +26,7 @@ high_salary.show()
 
 
 
-# 5. Group by department
+#  Group by department
 # and calculate average salary
 
 department_salary = (
@@ -36,7 +36,7 @@ department_salary = (
 
 
 
-# 6. Sort by average salary
+# Sort by average salary
 
 department_salary = department_salary.orderBy(
     "average_salary",
@@ -49,6 +49,6 @@ department_salary.show()
 
 
 
-# 7. Stop SparkSession
+#Stop SparkSession
 
 spark.stop()
