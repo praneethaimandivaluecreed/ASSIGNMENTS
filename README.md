@@ -2,6 +2,7 @@
 
 # Praneetha
 notes : 
+https://docs.google.com/document/d/1797uFUPNNssZuWyhKaDnEglRCmzya-Q9JOCdoQ5Zom4/edit?usp=sharing
 https://docs.google.com/document/d/1gzf2GJs3X914fTH-EyIdVtiXEZcvBIsW8iAcJJvnucI/edit?usp=sharing
 
 planner : 
