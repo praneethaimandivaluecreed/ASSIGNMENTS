@@ -1,0 +1,13 @@
+order_id,customer,city,product,amount
+1,Ravi,Hyderabad,Laptop,55000
+2,Anu,Chennai,Phone,25000
+3,Kiran,Hyderabad,Monitor,15000
+4,Sneha,Mumbai,Laptop,60000
+5,Rahul,Chennai,Keyboard,3000
+6,Priya,Hyderabad,Phone,30000
+7,Arjun,Mumbai,Monitor,12000
+8,Divya,Chennai,Laptop,52000
+9,Vijay,Hyderabad,Mouse,2000
+10,Meena,Mumbai,Phone,28000
+11,Ajay,Chennai,Monitor,18000
+12,Pooja,Hyderabad,Laptop,58000
