@@ -1,0 +1,67 @@
+WARNING: Using incubator modules: jdk.incubator.vector
+Using Spark's default log4j profile: org/apache/spark/log4j2-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+INITIAL RDD
+Number of partitions: 4
+AFTER flatMap()
+Sample words:
+['spark', 'makes', 'data', 'processing', 'fast', 'spark', 'processes', 'data', 'using', 'distributed']
+AFTER map()
+[('spark', 1), ('makes', 1), ('data', 1), ('processing', 1), ('fast', 1), ('spark', 1), ('processes', 1), ('data', 1), ('using', 1), ('distributed', 1)]
+AFTER reduceByKey()
+reduceByKey() introduces a SHUFFLE.
+Word count partitions: 4
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+AFTER sortBy()
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+spark                -> 4
+data                 -> 3
+transformations      -> 2
+distributed          -> 2
+rdd                  -> 2
+fast                 -> 1
+processes            -> 1
+using                -> 1
+computing            -> 1
+structure            -> 1
+and                  -> 1
+is                   -> 1
+in                   -> 1
+uses                 -> 1
+actions              -> 1
+are                  -> 1
+lazy                 -> 1
+makes                -> 1
+processing           -> 1
+a                    -> 1
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+Total unique words: 20
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+C:\spark\python\lib\pyspark.zip\pyspark\shuffle.py:88: UserWarning: Please install psutil to have better support with spilling
+First 5 results: [('spark', 4), ('data', 3), ('transformations', 2), ('distributed', 2), ('rdd', 2)]
+SUCCESS: The process with PID 22168 (child process of PID 11180) has been terminated.
+SUCCESS: The process with PID 11180 (child process of PID 22124) has been terminated.
+SUCCESS: The process with PID 22124 (child process of PID 21772) has been terminated.
