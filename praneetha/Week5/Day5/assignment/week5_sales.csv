@@ -1,0 +1,13 @@
+order_id,customer_id,customer_name,department,product,amount,order_date
+1,C101,Arjun,Electronics,Laptop,75000,2026-01-05
+2,C102,Bhavana,Electronics,Phone,45000,2026-01-06
+3,C101,Arjun,Electronics,Mouse,1500,2026-01-08
+4,C103,Kavya,Furniture,Chair,7000,2026-01-10
+5,C104,Rahul,Furniture,Table,12000,2026-01-12
+6,C102,Bhavana,Electronics,Headphones,5000,2026-01-15
+7,C105,Niha,Clothing,Jacket,6000,2026-01-17
+8,C103,Kavya,Furniture,Desk,18000,2026-01-20
+9,C101,Arjun,Electronics,Keyboard,3000,2026-01-22
+10,C105,Niha,Clothing,Shoes,4500,2026-01-25
+11,C104,Rahul,Furniture,Lamp,2500,2026-01-27
+12,C102,Bhavana,Electronics,Monitor,22000,2026-01-30
