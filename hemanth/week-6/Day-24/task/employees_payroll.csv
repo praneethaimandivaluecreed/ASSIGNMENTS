@@ -1,0 +1,5 @@
+emp_id,name,dept,monthly_salary,joining_date,work_email
+201,"vijay   kumar","it",65000,15-03-2023," VIJAY@EXAMPLE.COM "
+202," ANITA SHAH ","finance",58000,20-07-2022,"anita@example.com"
+203,"Kiran Rao","hr",72000,10-01-2024," KIRAN@EXAMPLE.COM"
+204,"Meena Das","IT",55000,05-11-2023,"meena@example.com"

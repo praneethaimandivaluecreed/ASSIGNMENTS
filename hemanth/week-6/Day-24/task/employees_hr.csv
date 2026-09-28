@@ -1,0 +1,5 @@
+employee_id,employee_name,department,salary,hire_date,email
+101," Rahul   Kumar ","IT",75000,2022-04-15," RAHUL@EXAMPLE.COM "
+102,"Priya Sharma","Finance",62000,2023-08-20,"priya@example.com"
+103," ARJUN REDDY","IT",48000,2024-01-10," ARJUN@EXAMPLE.COM"
+104,"Sneha Rao","HR",85000,2021-06-01,"sneha@example.com"
