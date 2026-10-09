@@ -1,0 +1,187 @@
+# PLAN BEFORE BRODCAST JOIN & SALTING
+
+== Physical Plan ==
+AdaptiveSparkPlan (11)
++- Project (10)
+   +- SortMergeJoin Inner (9)
+      :- Sort (4)
+      :  +- Exchange (3)
+      :     +- Filter (2)
+      :        +- Scan csv  (1)
+      +- Sort (8)
+         +- Exchange (7)
+            +- Filter (6)
+               +- Scan csv  (5)
+
+
+(1) Scan csv 
+Output [3]: [customer_id#17, customer_name#18, country#19]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/customers.csv]
+PushedFilters: [IsNotNull(customer_id)]
+ReadSchema: struct<customer_id:int,customer_name:string,country:string>
+
+(2) Filter
+Input [3]: [customer_id#17, customer_name#18, country#19]
+Condition : isnotnull(customer_id#17)
+
+(3) Exchange
+Input [3]: [customer_id#17, customer_name#18, country#19]
+Arguments: hashpartitioning(customer_id#17, 200), ENSURE_REQUIREMENTS, [plan_id=218]
+
+(4) Sort
+Input [3]: [customer_id#17, customer_name#18, country#19]
+Arguments: [customer_id#17 ASC NULLS FIRST], false, 0
+
+(5) Scan csv 
+Output [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/orders.csv]
+PushedFilters: [IsNotNull(customer_id)]
+ReadSchema: struct<order_id:int,customer_id:int,amount:double,product_id:int,order_status:string>
+
+(6) Filter
+Input [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Condition : isnotnull(customer_id#38)
+
+(7) Exchange
+Input [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Arguments: hashpartitioning(customer_id#38, 200), ENSURE_REQUIREMENTS, [plan_id=219]
+
+(8) Sort
+Input [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Arguments: [customer_id#38 ASC NULLS FIRST], false, 0
+
+(9) SortMergeJoin
+Left keys [1]: [customer_id#17]
+Right keys [1]: [customer_id#38]
+Join type: Inner
+Join condition: None
+
+(10) Project
+Output [7]: [customer_id#17, customer_name#18, country#19, order_id#37, amount#39, product_id#40, order_status#41]
+Input [8]: [customer_id#17, customer_name#18, country#19, order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+
+(11) AdaptiveSparkPlan
+Output [7]: [customer_id#17, customer_name#18, country#19, order_id#37, amount#39, product_id#40, order_status#41]
+Arguments: isFinalPlan=false
+
+
+BRODCAST JOIN EXECUTION PLAN
+(1) Scan csv 
+Output [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/orders.csv]
+PushedFilters: [IsNotNull(customer_id)]
+ReadSchema: struct<order_id:int,customer_id:int,amount:double,product_id:int,order_status:string>
+
+(2) Filter
+Input [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Condition : isnotnull(customer_id#38)
+
+(3) Scan csv 
+Output [3]: [customer_id#17, customer_name#18, country#19]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/customers.csv]
+PushedFilters: [IsNotNull(customer_id)]
+ReadSchema: struct<customer_id:int,customer_name:string,country:string>
+
+(4) Filter
+Input [3]: [customer_id#17, customer_name#18, country#19]
+Condition : isnotnull(customer_id#17)
+
+(5) BroadcastExchange
+Input [3]: [customer_id#17, customer_name#18, country#19]
+Arguments: HashedRelationBroadcastMode(List(cast(input[0, int, false] as bigint)),false), [plan_id=372]
+
+(6) BroadcastHashJoin
+Left keys [1]: [customer_id#38]
+Right keys [1]: [customer_id#17]
+Join type: Inner
+Join condition: None
+
+(7) Project
+Output [7]: [customer_id#38, order_id#37, amount#39, product_id#40, order_status#41, customer_name#18, country#19]
+Input [8]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, customer_id#17, customer_name#18, country#19]
+
+(8) AdaptiveSparkPlan
+Output [7]: [customer_id#38, order_id#37, amount#39, product_id#40, order_status#41, customer_name#18, country#19]
+Arguments: isFinalPlan=false
+
+
+Press Enter to stop Spark...
+
+
+# after salting
+(1) Scan csv 
+Output [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/orders.csv]
+ReadSchema: struct<order_id:int,customer_id:int,amount:double,product_id:int,order_status:string>
+
+(2) Project
+Output [6]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, CASE WHEN (customer_id#38 = 999999) THEN cast(FLOOR((rand(-2949443425492441724) * 10.0)) as int) ELSE 0 END AS salt#155]
+Input [5]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41]
+
+(3) Filter
+Input [6]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155]
+Condition : isnotnull(concat(cast(customer_id#38 as string), _, cast(salt#155 as string)))
+
+(4) Project
+Output [7]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, concat(cast(customer_id#38 as string), _, cast(salt#155 as string)) AS salted_customer_id#156]
+Input [6]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155]
+
+(5) Exchange
+Input [7]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, salted_customer_id#156]
+Arguments: hashpartitioning(salted_customer_id#156, 200), ENSURE_REQUIREMENTS, [plan_id=418]
+
+(6) Sort
+Input [7]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, salted_customer_id#156]
+Arguments: [salted_customer_id#156 ASC NULLS FIRST], false, 0
+
+(7) Scan csv 
+Output [3]: [customer_id#17, customer_name#18, country#19]
+Batched: false
+Location: InMemoryFileIndex [file:/C:/Users/VC_User6.DESKTOP-22FFUC4/Desktop/DATA ANALYTICS/ASSIGNMENTS/praneetha/Week7/Day4/Assignment/customers.csv]
+ReadSchema: struct<customer_id:int,customer_name:string,country:string>
+
+(8) Range
+Output [1]: [id#157L]
+Arguments: Range (0, 10, step=1, splits=Some(12))
+
+(9) Project
+Output [1]: [id#157L AS salt#158L]
+Input [1]: [id#157L]
+
+(10) CartesianProduct
+Join type: Inner
+Join condition: isnotnull(concat(cast(customer_id#17 as string), _, cast(salt#158L as string)))
+
+(11) Project
+Output [5]: [customer_id#17, customer_name#18, country#19, salt#158L, concat(cast(customer_id#17 as string), _, cast(salt#158L as string)) AS salted_customer_id#159]
+Input [4]: [customer_id#17, customer_name#18, country#19, salt#158L]
+
+(12) Exchange
+Input [5]: [customer_id#17, customer_name#18, country#19, salt#158L, salted_customer_id#159]
+Arguments: hashpartitioning(salted_customer_id#159, 200), ENSURE_REQUIREMENTS, [plan_id=419]
+
+(13) Sort
+Input [5]: [customer_id#17, customer_name#18, country#19, salt#158L, salted_customer_id#159]
+Arguments: [salted_customer_id#159 ASC NULLS FIRST], false, 0
+
+(14) SortMergeJoin
+Left keys [1]: [salted_customer_id#156]
+Right keys [1]: [salted_customer_id#159]
+Join type: Inner
+Join condition: None
+
+(15) Project
+Output [11]: [salted_customer_id#156, order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, customer_id#17, customer_name#18, country#19, salt#158L]
+Input [12]: [order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, salted_customer_id#156, customer_id#17, customer_name#18, country#19, salt#158L, salted_customer_id#159]
+
+(16) AdaptiveSparkPlan
+Output [11]: [salted_customer_id#156, order_id#37, customer_id#38, amount#39, product_id#40, order_status#41, salt#155, customer_id#17, customer_name#18, country#19, salt#158L]
+Arguments: isFinalPlan=false
+
+
+Press Enter to stop Spark...
