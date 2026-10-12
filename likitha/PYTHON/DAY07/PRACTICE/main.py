@@ -30,9 +30,9 @@ df=pd.DataFrame(list)
 print(df)
 
 ########### load files in pandas ##########
-df = pd.read_csv(r'C:\Users\Likhita\Desktop\engineering\vc\DataAnalytics\ASSIGNMENTS\likitha\DAY07\PRACTICE\employee.csv', on_bad_lines='skip')
-print(df)
-print(df.to_string())
+# df = pd.read_csv("employee.csv", on_bad_lines='skip')
+# print(df)
+# print(df.to_string())
 
 ### for excel we have .read_excel()
 ### output into a file with pandas 
