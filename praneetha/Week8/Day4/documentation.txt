@@ -1,0 +1,21 @@
+I would perform a backfill when historical data is missing or when the business needs data from an earlier period. 
+First, I would identify the required start and end dates and filter the source data for that range. 
+I would apply the same data cleaning, validation and deduplication rules used in the normal incremental pipeline.
+
+Before writing the data, I would check whether that historical range has already been loaded, because appending the same data again could create duplicates.
+ Depending on the target design, I would use an appropriate upsert or overwrite strategy for the affected data.
+
+After writing, I would validate the row counts, keys and data quality. 
+I would record which date range was successfully processed so that a failed backfill can be retried safely.
+I would also make sure that the normal incremental load and backfill do not overwrite each other's changes.
+
+SCD Type 1 and Type 2 are used to manage changes in dimension data. 
+In Type 1, I overwrite the existing value when a change occurs, so only the latest value is maintained. 
+This is useful when the business does not need the old value, such as correcting a spelling mistake.
+
+In Type 2, I preserve the old record and insert a new version when a tracked attribute changes. 
+I can use start dates, end dates and a current flag to identify which version applies at a particular time. 
+This is useful when the business needs historical reporting, such as tracking an employee's department changes.
+
+I would choose the SCD type based on whether historical values need to be preserved. 
+I would also avoid creating a new Type 2 version when the incoming record has not actually changed.
