@@ -625,5 +625,6 @@ Open iteration 3 and inspect the Copy activity's Input and Output to identify wh
 6. [Get Metadata vs Lookup activity – Medium](https://medium.com/@rganesh0203/get-metadata-vs-lookup-activity-in-azure-data-factory-azure-synapse-analytics-9eacd6d2e843)
 7. [Azure Data Factory discussion – ForEach failure and error handling](https://techcommunity.microsoft.com/discussions/azuredatafactory/azure-data-factory-foreach-loop-fails-despite-inner-activity-error-handling---se/4434806)
 8. [ADF Control Flow video](https://youtu.be/f9Tq5fIY0vY?si=NCNl44Qd3LQfbLj_)
+9. [CHATGPT](https://chatgpt.com/share/6aed91df-668c-83ee-8d55-f3a7dbf40955)
 
 **Final learning principle:** Control Flow is not just about connecting activities. It is about controlling execution, managing dependencies, handling failures, processing data in batches and making pipelines reusable and reliable.
