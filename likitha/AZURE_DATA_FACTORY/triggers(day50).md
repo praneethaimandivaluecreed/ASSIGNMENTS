@@ -583,5 +583,6 @@ Rerunning the window preserves its original time boundaries and trigger context,
 5. [Trigger parameterization — pass trigger information to a pipeline](https://learn.microsoft.com/en-us/azure/data-factory/how-to-use-trigger-parameterization)
 6. [Visually monitor Azure Data Factory](https://learn.microsoft.com/en-us/azure/data-factory/monitor-visually)
 7.[chatgpt](https://chatgpt.com/share/6aeda550-71a0-83ee-bf7e-87e88b97521b)
+8.[gemini](https://share.gemini.google/xCfiNrAj5Mup)
 
 *Revision reminder: A trigger decides when a pipeline starts. A pipeline performs the work. Monitor the trigger first, then the pipeline, then the individual activity. For tumbling windows, always keep the original window boundaries and dependency state in mind when rerunning.*
