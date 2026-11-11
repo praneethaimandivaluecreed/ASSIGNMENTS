@@ -1,7 +1,4 @@
 # AZURE DATA FACTORY – MAPPING DATA FLOWS
-## Beginner-Friendly Running Notes
-
----
 
 # PAGE 1 – INTRODUCTION TO MAPPING DATA FLOWS
 
