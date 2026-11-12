@@ -827,3 +827,10 @@ A metadata-driven pipeline separates **instructions from execution**.
 The metadata table tells ADF what to process. Lookup retrieves those instructions. ForEach processes each configuration record. Parameterized datasets and Data Flows dynamically select the correct source and target. The load logic decides whether to perform a full load, watermark-based incremental load, or CDC-based change processing.
 
 This makes the solution reusable, scalable, and easier to maintain—provided that we handle checkpoints, failures, parameter mappings, and destination writes correctly.
+
+references ->
+
+https://share.gemini.google/4y9F3MTKyB2W
+https://melbdataguy.medium.com/metadata-driven-development-in-azure-data-factory-f8361fea1fd5
+https://www.youtube.com/watch?v=Ni5y8sE7A6I
+https://chatgpt.com/share/6af5930a-8e1c-83e8-836a-0b74f5f6fde2
