@@ -172,8 +172,16 @@ Some commonly used CI/CD tools:
 **Final understanding:**
 
 Git is used to track and manage code changes. GitHub is used to host repositories and collaborate with other developers. CI automatically checks and tests code, while CD prepares and deploys the tested code into the required environment.
+**REJECTED PUSH HANDLING**
 
-*REJECTED PUSH SCENARIO FACED*
+- A push may get rejected if the remote branch has changes that are not present in my local branch.
+- First, check the current branch and status using git status.
+- Pull the latest remote changes using git pull --rebase origin <branch-name>.
+- If merge conflicts occur, resolve them, then run git add . and git rebase --continue.
+- After resolving everything, push again using git push origin <branch-name>.
+- Avoid git push --force because it can overwrite other people's changes.
+
+
 ![alt text](image.png)
 
 ![alt text](image-1.png)
