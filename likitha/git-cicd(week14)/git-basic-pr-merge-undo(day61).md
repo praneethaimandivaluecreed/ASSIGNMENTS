@@ -172,3 +172,8 @@ Some commonly used CI/CD tools:
 **Final understanding:**
 
 Git is used to track and manage code changes. GitHub is used to host repositories and collaborate with other developers. CI automatically checks and tests code, while CD prepares and deploys the tested code into the required environment.
+
+*REJECTED PUSH SCENARIO FACED*
+![alt text](image.png)
+
+![alt text](image-1.png)
