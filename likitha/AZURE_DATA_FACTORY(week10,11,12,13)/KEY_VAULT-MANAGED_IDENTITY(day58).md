@@ -78,11 +78,6 @@ Azure uses Microsoft Entra ID (formerly Azure Active Directory) to identify user
 | Service Principal | Uses a Microsoft Entra ID application identity |
 | SQL / Basic Authentication | Uses username and password |
 | Account Key | Uses a storage account access key |
-| SAS | Uses a time-limited, permission-based token |
-| Anonymous | Connects without credentials, where supported |
-| Windows Authentication | Uses Windows credentials for supported connectors |
-| Client Certificate | Uses a certificate for authentication |
-| Digest | Uses challenge-response authentication for supported connectors |
 
 **Service Principal requires:**
 - Tenant ID
