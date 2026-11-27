@@ -1,0 +1,2 @@
+{"event_id": "E4", "customer_id": "C1", "event_time": "2026-01-01T10:20:00", "amount": 200.0}
+{"event_id": "E5", "customer_id": "C2", "event_time": "2026-01-01T10:22:00", "amount": 125.0}
